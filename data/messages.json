@@ -1,1546 +1,1562 @@
-[{
-  "_id": {
-    "$oid": "667147532feceecaea25a989"
+[
+  {
+    "_id": {
+      "$oid": "667147532feceecaea25a989"
+    },
+    "public_id": "693ddaba-9cbf-4075-af27-b287b2376df7",
+    "openai_message_id": "msg_yPAHB4ryS52GRv6Uykk7RBD4",
+    "openai_created_at": 1718699859,
+    "created_at": {
+      "$date": "2024-06-18T08:37:39.196Z"
+    },
+    "content": "co jest stolicą Polski",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    },
+    "visitor_id": "09b8606dc3fa1afdc122c60f64873fb6"
   },
-  "public_id": "693ddaba-9cbf-4075-af27-b287b2376df7",
-  "openai_message_id": "msg_yPAHB4ryS52GRv6Uykk7RBD4",
-  "openai_created_at": 1718699859,
-  "created_at": {
-    "$date": "2024-06-18T08:37:39.196Z"
+  {
+    "_id": {
+      "$oid": "667147572feceecaea25a98b"
+    },
+    "public_id": "1e7a25b9-bd29-4181-8629-7ae0b193564b",
+    "openai_message_id": "msg_8EaAXpkNlTghlmdoc2L3RyFQ",
+    "openai_created_at": 1718699862,
+    "created_at": {
+      "$date": "2024-06-18T08:37:43.278Z"
+    },
+    "content": "Stolicą Polski jest Warszawa.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    }
   },
-  "content": "co jest stolicą Polski",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
+  {
+    "_id": {
+      "$oid": "6671476c2feceecaea25a98c"
+    },
+    "public_id": "cad7a2f0-b025-4443-9c5c-f81de0dccd29",
+    "openai_message_id": "msg_v54wsaNfasrVBjQszxAjG8gj",
+    "openai_created_at": 1718699884,
+    "created_at": {
+      "$date": "2024-06-18T08:38:04.532Z"
+    },
+    "content": "Co jest stolicą Czech?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    },
+    "visitor_id": "09b8606dc3fa1afdc122c60f64873fb6"
   },
-  "visitor_id": "09b8606dc3fa1afdc122c60f64873fb6"
-},
-{
-  "_id": {
-    "$oid": "667147572feceecaea25a98b"
+  {
+    "_id": {
+      "$oid": "6671476f2feceecaea25a98e"
+    },
+    "public_id": "5132e734-fb52-4519-b9e6-470adbf9b8ee",
+    "openai_message_id": "msg_cUI4pL7jnnfe6dAasysp951X",
+    "openai_created_at": 1718699887,
+    "created_at": {
+      "$date": "2024-06-18T08:38:07.488Z"
+    },
+    "content": "Stolicą Czech jest Praga.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    }
   },
-  "public_id": "1e7a25b9-bd29-4181-8629-7ae0b193564b",
-  "openai_message_id": "msg_8EaAXpkNlTghlmdoc2L3RyFQ",
-  "openai_created_at": 1718699862,
-  "created_at": {
-    "$date": "2024-06-18T08:37:43.278Z"
+  {
+    "_id": {
+      "$oid": "667153b12feceecaea25a98f"
+    },
+    "public_id": "a5f893ad-fb80-4dee-9cc3-8edb646c36c4",
+    "openai_message_id": "msg_DLx1cmSHyCY08o2HH6ExFp3Z",
+    "openai_created_at": 1718702994,
+    "created_at": {
+      "$date": "2024-06-18T09:30:25.760Z"
+    },
+    "content": "Stolicą Czech jest Praga.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    }
   },
-  "content": "Stolicą Polski jest Warszawa.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
+  {
+    "_id": {
+      "$oid": "667158292feceecaea25a990"
+    },
+    "public_id": "3acf1a9c-e832-49a0-98b6-e242e78d0df5",
+    "openai_message_id": "msg_RiejUyLX4CAKBcOstq3H6O4g",
+    "openai_created_at": 1718704169,
+    "created_at": {
+      "$date": "2024-06-18T09:49:29.559Z"
+    },
+    "content": "Co jest stolica Francji?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    },
+    "visitor_id": "09b8606dc3fa1afdc122c60f64873fb6"
+  },
+  {
+    "_id": {
+      "$oid": "6671582e2feceecaea25a992"
+    },
+    "public_id": "7d36c046-0cc1-41c0-9ef7-aacea17e8280",
+    "openai_message_id": "msg_XDQ9qvZvX1nGALmWJC2BxO1v",
+    "openai_created_at": 1718704173,
+    "created_at": {
+      "$date": "2024-06-18T09:49:34.096Z"
+    },
+    "content": "Stolicą Francji jest Paryż.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66715ce82feceecaea25a994"
+    },
+    "public_id": "050053f0-7f4a-4aa1-bec6-1a937675ee5e",
+    "openai_message_id": "msg_KB9dvteMWGLRfuLiKDS34PZh",
+    "openai_created_at": 1718705384,
+    "created_at": {
+      "$date": "2024-06-18T10:09:44.244Z"
+    },
+    "content": "jaki jest zielony owoc",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66715cd42feceecaea25a993"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "66715cfd2feceecaea25a996"
+    },
+    "public_id": "ded55c71-5326-4c65-ac04-630ac8b48aa8",
+    "openai_message_id": "msg_4ICXsoWHfYup8rfOgvUswIAq",
+    "openai_created_at": 1718705387,
+    "created_at": {
+      "$date": "2024-06-18T10:10:05.142Z"
+    },
+    "content": "To pytanie może mieć wiele odpowiedzi, ponieważ istnieje wiele owoców, które są zielone albo na zewnątrz, albo w środku. Oto kilka przykładów zielonych owoców:\n\n1. **Avokado** - znane ze swojej kremowej konsystencji i korzyści zdrowotnych, avokado jest owocem, który jest zielony zarówno na zewnątrz, jak i w środku.\n2. **Kiwi** - wyróżnia się intensywnie zielonym miąższem i charakterystycznymi czarnymi nasionkami.\n3. **Jabłko (niektóre odmiany)** - jak 'Granny Smith', które są zielone na zewnątrz i mają jasny, kwaśny smak.\n4. **Winogrona (niektóre odmiany)** - istnieją odmiany winogron, które są zielone i mogą być zarówno słodkie, jak i lekko kwaśne.\n5. **Limetka** - ma zieloną skórkę oraz zielony, kwaśny miąższ i jest często używana jako dodatek smakowy.\n6. **Gruszka (niektóre odmiany)** - takie jak gruszki 'Conference', które mogą być zielone na zewnątrz.\n7. **Papaja** - niektóre odmiany papai mogą być zielone na zewnątrz; miąższ zazwyczaj zmienia kolor gdy owoc dojrzewa.\n8. **Guawa** - często posiada zieloną skórkę oraz może mieć zielony lub różowy miąższ. \n9. **Horned melon (Kiwano)** - posiada zielony miąższ, pomimo zewnętrznej pomarańczowej skórki.\n\nWybór zielonego owocu zależy od kontekstu pytania. Jeśli potrzebujesz informacji o konkretnym zielonym owocu lub jego zastosowaniach, daj mi znać!",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66715cd42feceecaea25a993"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66715d072feceecaea25a997"
+    },
+    "public_id": "07220da6-db0b-49b8-9d40-6a1876b4ed64",
+    "openai_message_id": "msg_iLHNREneM77mVuKTc7pNehvM",
+    "openai_created_at": 1718705415,
+    "created_at": {
+      "$date": "2024-06-18T10:10:15.248Z"
+    },
+    "content": "stolica hiszpani",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66715cd42feceecaea25a993"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "66715d0c2feceecaea25a999"
+    },
+    "public_id": "c63cd7e4-c7f9-4ecf-ae80-438b47c75e93",
+    "openai_message_id": "msg_pNEHPch20c9cRTSlgJKja9lH",
+    "openai_created_at": 1718705417,
+    "created_at": {
+      "$date": "2024-06-18T10:10:20.750Z"
+    },
+    "content": "Stolicą Hiszpanii jest Madryt. Madryt jest zarówno stolicą kraju, jak i jednostką administracyjną o nazwie Wspólnota Madrytu. Jest to największe miasto w Hiszpanii i pełni ważną rolę kulturową, polityczną, ekonomiczną i administracyjną w kraju.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66715cd42feceecaea25a993"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667161352feceecaea25a99a"
+    },
+    "public_id": "439b66d3-66a8-4541-8320-319ae1c27c2a",
+    "openai_message_id": "msg_B7Bh24VRU1n2luOZMiaCFXAv",
+    "openai_created_at": 1718706485,
+    "created_at": {
+      "$date": "2024-06-18T10:28:05.654Z"
+    },
+    "content": "stolica Polski",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66715cd42feceecaea25a993"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "6671613e2feceecaea25a99c"
+    },
+    "public_id": "bcc5b065-5c86-46e3-a0a6-08f88a0d152f",
+    "openai_message_id": "msg_04uu2mYz3OqVWg1Oyf25mDGF",
+    "openai_created_at": 1718706490,
+    "created_at": {
+      "$date": "2024-06-18T10:28:14.398Z"
+    },
+    "content": "Stolicą Polski jest Warszawa. Warszawa pełni rolę głównego centrum politycznego, kulturalnego i ekonomicznego kraju. Jest to także największe miasto w Polsce pod względem liczby mieszkańców oraz jedno z ważniejszych miast na mapie Europy Środkowo-Wschodniej.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66715cd42feceecaea25a993"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6671618d2feceecaea25a99d"
+    },
+    "public_id": "dadd8394-d2ed-450a-9ca4-24a7981c165c",
+    "openai_message_id": "msg_WeAxLjMZuwTD84pz6TbqR12n",
+    "openai_created_at": 1718706573,
+    "created_at": {
+      "$date": "2024-06-18T10:29:33.429Z"
+    },
+    "content": "co jest stolica Czech",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66715cd42feceecaea25a993"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "667161932feceecaea25a99f"
+    },
+    "public_id": "8f043f6a-c2e5-438e-a511-6a41a6989726",
+    "openai_message_id": "msg_kIX1DkLB45ObVjZW5AyESXbG",
+    "openai_created_at": 1718706575,
+    "created_at": {
+      "$date": "2024-06-18T10:29:39.601Z"
+    },
+    "content": "Stolicą Czech jest Praga. Praga jest największym miastem w Czechach oraz ważnym centrum kulturowym, historycznym i ekonomicznym kraju. Znana jest z pięknej architektury, w tym zabytkowego starego miasta, Zamku Praskiego oraz licznych mostów nad rzeką Wełtawą, wśród których najbardziej znany jest Karolowy Most.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66715cd42feceecaea25a993"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6671620e2feceecaea25a9a0"
+    },
+    "public_id": "af890607-b654-408e-978b-e725b18b0ead",
+    "openai_message_id": "msg_doPYiOSL51EteDdEgBA7HsEQ",
+    "openai_created_at": 1718706702,
+    "created_at": {
+      "$date": "2024-06-18T10:31:42.557Z"
+    },
+    "content": "Jaka jest stolica Francji?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66715cd42feceecaea25a993"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "667162152feceecaea25a9a2"
+    },
+    "public_id": "8e384768-f363-4911-8029-50654f5b13bf",
+    "openai_message_id": "msg_sLxneIM39pMNX9qoef38u4He",
+    "openai_created_at": 1718706705,
+    "created_at": {
+      "$date": "2024-06-18T10:31:49.349Z"
+    },
+    "content": "Stolicą Francji jest Paryż. Paryż jest znaczącym ośrodkiem kultury, sztuki, mody, gastronomii i polityki nie tylko we Francji, ale i na całym świecie. Miasto jest również znane z takich zabytków jak Wieża Eiffla, Luwr, Katedra Notre-Dame oraz Champs-Élysées.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66715cd42feceecaea25a993"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667162662feceecaea25a9a3"
+    },
+    "public_id": "849d3ab6-9c48-436e-8510-9598418ca1f2",
+    "openai_message_id": "msg_TmNd4qWO7ny82jXrFnlyTTgW",
+    "openai_created_at": 1718706789,
+    "created_at": {
+      "$date": "2024-06-18T10:33:10.058Z"
+    },
+    "content": "Czy jabłko to owoc",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66715cd42feceecaea25a993"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "667162702feceecaea25a9a5"
+    },
+    "public_id": "6d7a09a0-a576-4120-966a-896c9ae0270d",
+    "openai_message_id": "msg_MgGgJQ1eX3Q1v68UCUuHJXz9",
+    "openai_created_at": 1718706792,
+    "created_at": {
+      "$date": "2024-06-18T10:33:20.775Z"
+    },
+    "content": "Tak, jabłko jest owocem. Jest to jeden z najbardziej rozpoznawalnych i powszechnie spożywanych owoców na całym świecie, należący do rodziny różowatych (Rosaceae). Jabłka są dostępne w wielu odmianach, różniących się smakiem, kolorem skórki i konsystencją miąższu, ale wszystkie są owocami produkowanymi przez drzewo jabłoni (Malus domestica). Zapewniają wiele korzyści zdrowotnych, zawierając m.in. witaminy, minerały i błonnik.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66715cd42feceecaea25a993"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667163f12feceecaea25a9a7"
+    },
+    "public_id": "9d4222d5-4f80-4ff9-8642-3b4f879e6f70",
+    "openai_message_id": "msg_wlPTgMpH0GjGQpw0kvTTWBgp",
+    "openai_created_at": 1718707184,
+    "created_at": {
+      "$date": "2024-06-18T10:39:45.004Z"
+    },
+    "content": "Jakie miasto to stolica Czech?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667163c92feceecaea25a9a6"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "667163f42feceecaea25a9a9"
+    },
+    "public_id": "e3f9a61a-52ac-4a03-8a7b-1118ee5451f2",
+    "openai_message_id": "msg_4fJWJABA5jELVJxnMhSioHAg",
+    "openai_created_at": 1718707188,
+    "created_at": {
+      "$date": "2024-06-18T10:39:48.500Z"
+    },
+    "content": "Stolicą Czech jest Praga.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667163c92feceecaea25a9a6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6671640c2feceecaea25a9aa"
+    },
+    "public_id": "8ea4a363-358a-402e-b00f-5c72e044c415",
+    "openai_message_id": "msg_0buoHfPyi9tGK6Ymd3LCOeDH",
+    "openai_created_at": 1718707212,
+    "created_at": {
+      "$date": "2024-06-18T10:40:12.486Z"
+    },
+    "content": "Jakie miasto to stolica Niemiec?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667163c92feceecaea25a9a6"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "6671640e2feceecaea25a9ac"
+    },
+    "public_id": "8f97cab3-45d0-458e-a86d-fba4c45382f1",
+    "openai_message_id": "msg_v6WWiMcQ0Kw6WA16wRCat1VF",
+    "openai_created_at": 1718707214,
+    "created_at": {
+      "$date": "2024-06-18T10:40:14.874Z"
+    },
+    "content": "Stolicą Niemiec jest Berlin.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667163c92feceecaea25a9a6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6671643b2feceecaea25a9ad"
+    },
+    "public_id": "b69e80d9-3894-49d7-a0ba-dfb587b874cf",
+    "openai_message_id": "msg_Yb4Jler0SWTl5cMUeB4GW9nl",
+    "openai_created_at": 1718707259,
+    "created_at": {
+      "$date": "2024-06-18T10:40:59.468Z"
+    },
+    "content": "jakie miasto to stolica Tunezji?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667163c92feceecaea25a9a6"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "6671643e2feceecaea25a9af"
+    },
+    "public_id": "c48b1f06-3381-4968-a078-5c4de84ac988",
+    "openai_message_id": "msg_vQcWSpICfXwoHNbOZPJHnVv4",
+    "openai_created_at": 1718707262,
+    "created_at": {
+      "$date": "2024-06-18T10:41:02.872Z"
+    },
+    "content": "Stolicą Tunezji jest Tunis.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667163c92feceecaea25a9a6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667164da2feceecaea25a9b1"
+    },
+    "public_id": "63de0097-882f-420e-884e-637abe0b21f1",
+    "openai_message_id": "msg_flCmrAPxZ8gg8cZQhNItHZVN",
+    "openai_created_at": 1718707418,
+    "created_at": {
+      "$date": "2024-06-18T10:43:38.951Z"
+    },
+    "content": "Jakie miasto to stolica Niemiec?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667164d02feceecaea25a9b0"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "667164de2feceecaea25a9b3"
+    },
+    "public_id": "32677719-bbc5-49a1-bc32-6c845e4e1e09",
+    "openai_message_id": "msg_wcEtczyGMWiMg5SaZrBRavnk",
+    "openai_created_at": 1718707422,
+    "created_at": {
+      "$date": "2024-06-18T10:43:42.873Z"
+    },
+    "content": "Stolica Niemiec to Berlin.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667164d02feceecaea25a9b0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667164f22feceecaea25a9b4"
+    },
+    "public_id": "e8e61d66-bca6-42fe-ae23-fc334243c7d1",
+    "openai_message_id": "msg_ZEL1zkpAD4IMlxaQbnBJfctH",
+    "openai_created_at": 1718707442,
+    "created_at": {
+      "$date": "2024-06-18T10:44:02.251Z"
+    },
+    "content": "jakie miasto to stolica Tunezji?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667164d02feceecaea25a9b0"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "667164f52feceecaea25a9b6"
+    },
+    "public_id": "46dd51aa-90b4-42d3-9ccd-9cd17549ad6d",
+    "openai_message_id": "msg_Eum3ggBnPnkacAuHFiERjRP2",
+    "openai_created_at": 1718707444,
+    "created_at": {
+      "$date": "2024-06-18T10:44:05.365Z"
+    },
+    "content": "Stolica Tunezji to Tunis.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667164d02feceecaea25a9b0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667165522feceecaea25a9b7"
+    },
+    "public_id": "e9649323-df14-41b3-9577-3f39e466e6ec",
+    "openai_message_id": "msg_XqKYxBrgTfqA2nE8NK0su9d7",
+    "openai_created_at": 1718707538,
+    "created_at": {
+      "$date": "2024-06-18T10:45:38.952Z"
+    },
+    "content": "Jakie miasto to stolica Czech?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667164d02feceecaea25a9b0"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "667165562feceecaea25a9b9"
+    },
+    "public_id": "116d30ee-b337-428b-b28a-7140e49afe43",
+    "openai_message_id": "msg_NKKUOuD60HAoMlOX3v4NkxKZ",
+    "openai_created_at": 1718707542,
+    "created_at": {
+      "$date": "2024-06-18T10:45:42.869Z"
+    },
+    "content": "Stolica Czech to Praga.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667164d02feceecaea25a9b0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667166102feceecaea25a9bb"
+    },
+    "public_id": "b69d03c4-e723-464c-a3e1-b4ceb063380f",
+    "openai_message_id": "msg_F7mPDZSYsOe5vO6oksgC0xET",
+    "openai_created_at": 1718707727,
+    "created_at": {
+      "$date": "2024-06-18T10:48:48.047Z"
+    },
+    "content": "Jakie miasto jest stolicą Holandii?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667165ff2feceecaea25a9ba"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "667166162feceecaea25a9bd"
+    },
+    "public_id": "ba241174-2505-4925-bb8b-364a887089df",
+    "openai_message_id": "msg_lZXgYRbd5OCvfGcHI9Ph0Rdu",
+    "openai_created_at": 1718707731,
+    "created_at": {
+      "$date": "2024-06-18T10:48:54.162Z"
+    },
+    "content": "Stolicą Holandii jest Amsterdam. Jest to największe miasto kraju oraz jego główny ośrodek kulturalny, finansowy i biznesowy. Amsterdam pełni funkcję stolicy Holandii, choć siedziba rządu oraz większość instytucji państwowych znajduje się w Hadze.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667165ff2feceecaea25a9ba"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667166262feceecaea25a9be"
+    },
+    "public_id": "b2d6f816-2ccf-4084-aee5-61dfae85020e",
+    "openai_message_id": "msg_xzIWDAVpzP7wNRCz5uyqFT8B",
+    "openai_created_at": 1718707750,
+    "created_at": {
+      "$date": "2024-06-18T10:49:10.268Z"
+    },
+    "content": "Jakie miasto jest stolicą Polski?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667165ff2feceecaea25a9ba"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "6671662c2feceecaea25a9c0"
+    },
+    "public_id": "41b21858-d480-4a37-84be-9829751fe3a7",
+    "openai_message_id": "msg_ZXvoaKSUt5NVIkdswU4c7VnU",
+    "openai_created_at": 1718707752,
+    "created_at": {
+      "$date": "2024-06-18T10:49:16.963Z"
+    },
+    "content": "Stolicą Polski jest Warszawa. Jest to największe miasto w kraju, pełniące jednocześnie funkcje administracyjne, kulturalne, polityczne, naukowe i gospodarcze. Warszawa jest siedzibą Sejmu, Senatu, Prezydenta RP oraz wielu innych ważnych instytucji państwowych i międzynarodowych.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667165ff2feceecaea25a9ba"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66716c1b2feceecaea25a9c1"
+    },
+    "public_id": "16a7cff1-5776-46bb-a1f4-68886e52ef0d",
+    "openai_message_id": "msg_0vwiomUdi4XTxul0qScyVmuw",
+    "openai_created_at": 1718709275,
+    "created_at": {
+      "$date": "2024-06-18T11:14:35.142Z"
+    },
+    "content": "jakie miasto jest stolicą Brazylii ?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667165ff2feceecaea25a9ba"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "66716c232feceecaea25a9c3"
+    },
+    "public_id": "6356144e-ba9d-4688-a287-7df879562b4b",
+    "openai_message_id": "msg_QumuvjJZZKpTJswxsVxbmcem",
+    "openai_created_at": 1718709279,
+    "created_at": {
+      "$date": "2024-06-18T11:14:43.673Z"
+    },
+    "content": "Stolicą Brazylii jest Brasília. Miasto to zostało zaprojektowane przez architekta Oscara Niemeyera i urbanistę Lúcio Costę, a jego założenia urbanistyczne kształtują się na planie zbliżonym do kształtu samolotu. Brasília pełni rolę stolicy od 1960 roku, kiedy to przeniesiono ją z Rio de Janeiro w celu promowania rozwoju wewnętrznych obszarów kraju.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667165ff2feceecaea25a9ba"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66716ced2feceecaea25a9c5"
+    },
+    "public_id": "92ecaa26-f711-4023-a4ad-d893c27eff1b",
+    "openai_message_id": "msg_xwQdaC0PhJE7sMdSKAoWASIQ",
+    "openai_created_at": 1718709485,
+    "created_at": {
+      "$date": "2024-06-18T11:18:05.833Z"
+    },
+    "content": "Jakie miasto jest stolicą Hiszpanii?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66716cbf2feceecaea25a9c4"
+    },
+    "visitor_id": "249b40684f63f5a52e40108c5dab1bfe"
+  },
+  {
+    "_id": {
+      "$oid": "66716cf32feceecaea25a9c7"
+    },
+    "public_id": "fe8b73bd-a0c2-45a0-9438-4e4e16b40a9e",
+    "openai_message_id": "msg_IehLskcVD0OR8v0ohbMjzyxW",
+    "openai_created_at": 1718709488,
+    "created_at": {
+      "$date": "2024-06-18T11:18:11.036Z"
+    },
+    "content": "Stolicą Hiszpanii jest Madryt. Jest to jedna z podstawowych wiedzy ogólnej. Czy potrzebujesz dodatkowych informacji na temat tego miasta lub Hiszpanii?",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66716cbf2feceecaea25a9c4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66716d1a2feceecaea25a9c8"
+    },
+    "public_id": "ae749e33-caa8-432f-92b1-1a508907ddb1",
+    "openai_message_id": "msg_SJVDft0qk4CV1nZTMzntMyPO",
+    "openai_created_at": 1718709530,
+    "created_at": {
+      "$date": "2024-06-18T11:18:50.881Z"
+    },
+    "content": "Jakie miasto jest stolicą Chin?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66716cbf2feceecaea25a9c4"
+    },
+    "visitor_id": "249b40684f63f5a52e40108c5dab1bfe"
+  },
+  {
+    "_id": {
+      "$oid": "66716d1f2feceecaea25a9ca"
+    },
+    "public_id": "1f88a31c-7f1e-4f1a-96e3-9b0dbd8a31c8",
+    "openai_message_id": "msg_65GjRHqXHVDEn2Np0lwidxWb",
+    "openai_created_at": 1718709533,
+    "created_at": {
+      "$date": "2024-06-18T11:18:55.863Z"
+    },
+    "content": "Stolicą Chin jest Pekin. Jest to również wiedza ogólna, często wymagana przy podstawowych informacjach geograficznych o państwach. Czy istnieje coś więcej, co chciałbyś wiedzieć na temat Chin?",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66716cbf2feceecaea25a9c4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66716d442feceecaea25a9cb"
+    },
+    "public_id": "b969f5fa-0688-47fe-b164-55cdcd948889",
+    "openai_message_id": "msg_x0HiyuVa7kqtryV9d0OQOVGM",
+    "openai_created_at": 1718709572,
+    "created_at": {
+      "$date": "2024-06-18T11:19:32.863Z"
+    },
+    "content": "Jakie miasto jest stolicą Bangladeszu?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66716cbf2feceecaea25a9c4"
+    },
+    "visitor_id": "249b40684f63f5a52e40108c5dab1bfe"
+  },
+  {
+    "_id": {
+      "$oid": "66716d492feceecaea25a9cd"
+    },
+    "public_id": "4bde258b-7887-4393-80c0-e9ca4cf8c86b",
+    "openai_message_id": "msg_KwFJvOpBn2FP4qx9r954CZhK",
+    "openai_created_at": 1718709575,
+    "created_at": {
+      "$date": "2024-06-18T11:19:37.940Z"
+    },
+    "content": "Stolicą Bangladeszu jest Dhaka. Jest to duże, gęsto zaludnione miasto oraz ważny ośrodek gospodarczy, kulturalny i polityczny kraju. Czy mogę pomóc Ci jeszcze z jakimiś informacjami na temat Bangladeszu lub innych krajów?",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66716cbf2feceecaea25a9c4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66716fa22feceecaea25a9cf"
+    },
+    "public_id": "417c173c-2aff-4af4-a18c-500a9563b8cc",
+    "openai_message_id": "msg_jP3eWqQyfMynLbvBsLNLSfSz",
+    "openai_created_at": 1718710178,
+    "created_at": {
+      "$date": "2024-06-18T11:29:38.698Z"
+    },
+    "content": "Jakie miasto jest stolicą Grecji?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66716f912feceecaea25a9ce"
+    },
+    "visitor_id": "249b40684f63f5a52e40108c5dab1bfe"
+  },
+  {
+    "_id": {
+      "$oid": "66716fa72feceecaea25a9d1"
+    },
+    "public_id": "04a8425e-6ba1-4ae7-aa09-0b62e40a623e",
+    "openai_message_id": "msg_yB1ApbHuxqVGjvLI9mh96k8o",
+    "openai_created_at": 1718710182,
+    "created_at": {
+      "$date": "2024-06-18T11:29:43.805Z"
+    },
+    "content": "Stolicą Grecji jest Ateny. Jest to wiedza ogólna.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66716f912feceecaea25a9ce"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66716fbf2feceecaea25a9d2"
+    },
+    "public_id": "82680ca0-c870-4fe1-9fe0-9fead1707ea8",
+    "openai_message_id": "msg_Hq3n24nwIB13ibtMKhi6pOiE",
+    "openai_created_at": 1718710207,
+    "created_at": {
+      "$date": "2024-06-18T11:30:07.717Z"
+    },
+    "content": "Jakie miasto jest stolicą Kolumbii?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66716f912feceecaea25a9ce"
+    },
+    "visitor_id": "249b40684f63f5a52e40108c5dab1bfe"
+  },
+  {
+    "_id": {
+      "$oid": "66716fc32feceecaea25a9d4"
+    },
+    "public_id": "817889cb-6cee-4570-a2e9-19f86e8397e9",
+    "openai_message_id": "msg_y3h5AKzDVh2emTQey4SCzKgO",
+    "openai_created_at": 1718710210,
+    "created_at": {
+      "$date": "2024-06-18T11:30:11.934Z"
+    },
+    "content": "Stolicą Kolumbii jest Bogota. Jest to wiedza ogólna.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66716f912feceecaea25a9ce"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66716fee2feceecaea25a9d5"
+    },
+    "public_id": "f8035f0c-ddb3-4930-879d-7af6d5287e78",
+    "openai_message_id": "msg_l7RgiODKssBAatmfGJuflIF9",
+    "openai_created_at": 1718710254,
+    "created_at": {
+      "$date": "2024-06-18T11:30:54.169Z"
+    },
+    "content": "Jakie miasto jest stolicą Iranu?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66716f912feceecaea25a9ce"
+    },
+    "visitor_id": "249b40684f63f5a52e40108c5dab1bfe"
+  },
+  {
+    "_id": {
+      "$oid": "66716ff22feceecaea25a9d7"
+    },
+    "public_id": "ec69f9e5-611f-44b4-a0d3-112325ea08ec",
+    "openai_message_id": "msg_ICYx8CrWBNwMsCDJitHQGYFY",
+    "openai_created_at": 1718710258,
+    "created_at": {
+      "$date": "2024-06-18T11:30:58.866Z"
+    },
+    "content": "Stolicą Iranu jest Teheran. Jest to wiedza ogólna.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66716f912feceecaea25a9ce"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667172b22feceecaea25a9d9"
+    },
+    "public_id": "554599ef-281c-4937-98aa-df182dd0b2cb",
+    "openai_message_id": "msg_X5wICeCbzoeZrXiD3Vw9DPWI",
+    "openai_created_at": 1718710962,
+    "created_at": {
+      "$date": "2024-06-18T11:42:42.774Z"
+    },
+    "content": "jakie miasto to stolica Indii?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667172772feceecaea25a9d8"
+    },
+    "visitor_id": "6a7bda8dbad8b76aa18d91dce3b751ae"
+  },
+  {
+    "_id": {
+      "$oid": "667172b62feceecaea25a9db"
+    },
+    "public_id": "bde0ab17-be2a-4da3-b55a-52647c98a5f6",
+    "openai_message_id": "msg_rVImMpjEbusLFNYuj8bM9Adg",
+    "openai_created_at": 1718710965,
+    "created_at": {
+      "$date": "2024-06-18T11:42:46.264Z"
+    },
+    "content": "Stolicą Indii jest Nowe Delhi.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667172772feceecaea25a9d8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667172d92feceecaea25a9dc"
+    },
+    "public_id": "28a27774-95cf-4f44-92ab-9fd003676f81",
+    "openai_message_id": "msg_2ia60vfWbEPBkoxIp7xs2I0T",
+    "openai_created_at": 1718711001,
+    "created_at": {
+      "$date": "2024-06-18T11:43:21.873Z"
+    },
+    "content": "Jakie miasto to stolica Pakistanu?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667172772feceecaea25a9d8"
+    },
+    "visitor_id": "6a7bda8dbad8b76aa18d91dce3b751ae"
+  },
+  {
+    "_id": {
+      "$oid": "667172dc2feceecaea25a9de"
+    },
+    "public_id": "f613bae6-b1b1-4a26-b7ae-cec4be2f4489",
+    "openai_message_id": "msg_kw14k6mOeQ0pAVGogePSj9gN",
+    "openai_created_at": 1718711004,
+    "created_at": {
+      "$date": "2024-06-18T11:43:24.795Z"
+    },
+    "content": "Stolicą Pakistanu jest Islamabad.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667172772feceecaea25a9d8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667175dc2feceecaea25a9df"
+    },
+    "public_id": "9b8f9125-cca4-4765-8d82-a44da5cb6831",
+    "openai_message_id": "msg_AHdywIdtIUU038Vu1xwt7TP6",
+    "openai_created_at": 1718711772,
+    "created_at": {
+      "$date": "2024-06-18T11:56:12.147Z"
+    },
+    "content": "Jakie miasto jest stolicą Australii?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667172772feceecaea25a9d8"
+    },
+    "visitor_id": "6a7bda8dbad8b76aa18d91dce3b751ae"
+  },
+  {
+    "_id": {
+      "$oid": "667175e02feceecaea25a9e1"
+    },
+    "public_id": "ee8dbd1e-f724-41c2-8a6c-97f674a18bf5",
+    "openai_message_id": "msg_Pta9l8ssYDG5OSHX8GcIzoTI",
+    "openai_created_at": 1718711775,
+    "created_at": {
+      "$date": "2024-06-18T11:56:16.662Z"
+    },
+    "content": "Stolicą Australii jest Canberra.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667172772feceecaea25a9d8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66717ccd2feceecaea25a9e3"
+    },
+    "public_id": "ac7558d5-85f7-418c-905c-e13a40a9f352",
+    "openai_message_id": "msg_GPLsunFUZ5EzgQ8T0NvmTb0Q",
+    "openai_created_at": 1718713549,
+    "created_at": {
+      "$date": "2024-06-18T12:25:49.461Z"
+    },
+    "content": "Jakie miasto jest stolicą Anglii?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66717c632feceecaea25a9e2"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "66717cd22feceecaea25a9e5"
+    },
+    "public_id": "29fb7b7c-a9ef-4414-9c39-ae24fc760cab",
+    "openai_message_id": "msg_z2XQpTzHvIchyIb2dQIGWJ9P",
+    "openai_created_at": 1718713553,
+    "created_at": {
+      "$date": "2024-06-18T12:25:54.128Z"
+    },
+    "content": "Stolicą Anglii jest Londyn.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66717c632feceecaea25a9e2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66717d112feceecaea25a9e6"
+    },
+    "public_id": "058e8f21-c27e-441e-9ed4-6747af580967",
+    "openai_message_id": "msg_NkqAvc1yFtjkpM6uKT3vUvB5",
+    "openai_created_at": 1718713616,
+    "created_at": {
+      "$date": "2024-06-18T12:26:57.100Z"
+    },
+    "content": "Jakie miasto jest stolicą Stanów Zjednoczonych?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66717c632feceecaea25a9e2"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "66717d142feceecaea25a9e8"
+    },
+    "public_id": "222cb894-f053-436d-8ad1-dc9cc51c0d5b",
+    "openai_message_id": "msg_d3uxKuGW6UWBcKIuoOPFZY1U",
+    "openai_created_at": 1718713619,
+    "created_at": {
+      "$date": "2024-06-18T12:27:00.634Z"
+    },
+    "content": "Stolicą Stanów Zjednoczonych jest Waszyngton.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66717c632feceecaea25a9e2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66717eb32feceecaea25a9e9"
+    },
+    "public_id": "8b4beedd-4fa9-4f91-88c5-11f79777b73a",
+    "openai_message_id": "msg_YMslO7vhVWTKgsmBA6kJ6bHA",
+    "openai_created_at": 1718714035,
+    "created_at": {
+      "$date": "2024-06-18T12:33:55.425Z"
+    },
+    "content": "Jakie miasto jest stolicą Holandii?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66717c632feceecaea25a9e2"
+    },
+    "visitor_id": "c8186690203516a316f710061279cddf"
+  },
+  {
+    "_id": {
+      "$oid": "66717eb92feceecaea25a9eb"
+    },
+    "public_id": "0fedd41a-b988-4f0f-8f4d-71b25505d8f8",
+    "openai_message_id": "msg_yG7VW4ZTJMtP4VaYaLfUE34n",
+    "openai_created_at": 1718714041,
+    "created_at": {
+      "$date": "2024-06-18T12:34:01.522Z"
+    },
+    "content": "Stolicą Holandii jest Amsterdam.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66717c632feceecaea25a9e2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667417b779dc5482de8d1cad"
+    },
+    "public_id": "fe890c3a-0eea-4741-abc3-91b547ee2379",
+    "openai_message_id": "msg_NIP8ycsOBYrD7Vcpw0zsR4Au",
+    "openai_created_at": 1718884279,
+    "created_at": {
+      "$date": "2024-06-20T11:51:19.607Z"
+    },
+    "content": "Jakie miasto jest stolicą Hiszpanii?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    },
+    "visitor_id": "5769d140cd6bba4207d5f3742e0e5fc6"
+  },
+  {
+    "_id": {
+      "$oid": "667417bb79dc5482de8d1caf"
+    },
+    "public_id": "608621c2-a63c-4e9a-a823-6c14883e6867",
+    "openai_message_id": "msg_wASlDthzynZQyNKV85WLS9yc",
+    "openai_created_at": 1718884283,
+    "created_at": {
+      "$date": "2024-06-20T11:51:23.847Z"
+    },
+    "content": "Stolicą Hiszpanii jest Madryt.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6674183279dc5482de8d1cb0"
+    },
+    "public_id": "f32caf88-ca2a-4c6b-add9-86a24e56ccd4",
+    "openai_message_id": "msg_xyhSaKa3F3LKK4dyiSQtJ6AL",
+    "openai_created_at": 1718884402,
+    "created_at": {
+      "$date": "2024-06-20T11:53:22.497Z"
+    },
+    "content": "Jakie miasto jest stolicą Polski?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    },
+    "visitor_id": "5769d140cd6bba4207d5f3742e0e5fc6"
+  },
+  {
+    "_id": {
+      "$oid": "6674183679dc5482de8d1cb2"
+    },
+    "public_id": "299e1321-8981-4c9d-9e75-0fd5291ed5ed",
+    "openai_message_id": "msg_w7VLI41x824B8WOWXxkbegQO",
+    "openai_created_at": 1718884405,
+    "created_at": {
+      "$date": "2024-06-20T11:53:26.255Z"
+    },
+    "content": "Stolicą Polski jest Warszawa.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667418cf79dc5482de8d1cb3"
+    },
+    "public_id": "af3c2f94-c7f3-446c-964a-40b2302f6036",
+    "openai_message_id": "msg_finigh2GhA6A0TaLSmmRnMz7",
+    "openai_created_at": 1718884559,
+    "created_at": {
+      "$date": "2024-06-20T11:55:59.992Z"
+    },
+    "content": "Jakie miasto jest stolicą Czech?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    },
+    "visitor_id": "5769d140cd6bba4207d5f3742e0e5fc6"
+  },
+  {
+    "_id": {
+      "$oid": "667418d379dc5482de8d1cb5"
+    },
+    "public_id": "8b4def12-d26f-4488-95ca-62eb9af5de19",
+    "openai_message_id": "msg_Oo8i3F83r63rgIDVdfMm4q9n",
+    "openai_created_at": 1718884563,
+    "created_at": {
+      "$date": "2024-06-20T11:56:03.802Z"
+    },
+    "content": "Stolicą Czech jest Praga.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6676ce80d99d62703f0fe82d"
+    },
+    "public_id": "b148b761-db59-4888-b7fa-71fc909013c0",
+    "openai_message_id": "msg_cLrYcP0sY29dmUGcqpaXtm5d",
+    "openai_created_at": 1719062144,
+    "created_at": {
+      "$date": "2024-06-22T13:15:44.924Z"
+    },
+    "content": "Czy Barcelona jest stolicą Hiszpani?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    },
+    "visitor_id": "09b8606dc3fa1afdc122c60f64873fb6"
+  },
+  {
+    "_id": {
+      "$oid": "6676ce86d99d62703f0fe82f"
+    },
+    "public_id": "fb0d1021-8ec4-48a3-91cf-a80d8e0a239b",
+    "openai_message_id": "msg_KcfbYi5o1TRN4Tvh0AfbXZgk",
+    "openai_created_at": 1719062149,
+    "created_at": {
+      "$date": "2024-06-22T13:15:50.304Z"
+    },
+    "content": "Nie, Barcelona nie jest stolicą Hiszpanii. Stolicą Hiszpanii jest Madryt.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6676cfb9d99d62703f0fe830"
+    },
+    "public_id": "ca2cb0d9-fe76-47c3-bb6d-f1e9959c500e",
+    "openai_message_id": "msg_XBnRvCfEPwRLmg0DpusIKBVe",
+    "openai_created_at": 1719062456,
+    "created_at": {
+      "$date": "2024-06-22T13:20:57.941Z"
+    },
+    "content": "Nie, Barcelona nie jest stolicą Hiszpanii. Stolicą Hiszpanii jest Madryt.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6676e161d99d62703f0fe831"
+    },
+    "public_id": "fcae4421-0a1a-4b7f-823f-4e261020a3a2",
+    "openai_message_id": "msg_4qCwMPl4cG6t2fGwrb1uHsmJ",
+    "openai_created_at": 1719066977,
+    "created_at": {
+      "$date": "2024-06-22T14:36:17.106Z"
+    },
+    "content": "Jakie miasto jest stolicą Japonii?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    },
+    "visitor_id": "09b8606dc3fa1afdc122c60f64873fb6"
+  },
+  {
+    "_id": {
+      "$oid": "6676e164d99d62703f0fe833"
+    },
+    "public_id": "89737068-f5be-4a75-a1bd-2b9b043ae8c4",
+    "openai_message_id": "msg_SXlZGyWDblhXcwGmFKu1YvZh",
+    "openai_created_at": 1719066980,
+    "created_at": {
+      "$date": "2024-06-22T14:36:20.396Z"
+    },
+    "content": "Stolicą Japonii jest Tokio.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6676fd8ad99d62703f0fe834"
+    },
+    "public_id": "867380aa-d921-4148-b662-09e23bee4c69",
+    "openai_message_id": "msg_gvCmyFOQqtRC8qGgvGhJtgW9",
+    "openai_created_at": 1719074186,
+    "created_at": {
+      "$date": "2024-06-22T16:36:26.847Z"
+    },
+    "content": "co jest stolicą Niemiec?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    },
+    "visitor_id": "09b8606dc3fa1afdc122c60f64873fb6"
+  },
+  {
+    "_id": {
+      "$oid": "6676fd8ed99d62703f0fe836"
+    },
+    "public_id": "9a7c4f5c-9d65-48d8-88d4-28d8105ce5af",
+    "openai_message_id": "msg_pK3wYpSGjtr6skkFh8PefYFM",
+    "openai_created_at": 1719074189,
+    "created_at": {
+      "$date": "2024-06-22T16:36:30.613Z"
+    },
+    "content": "Stolicą Niemiec jest Berlin.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66770032d99d62703f0fe837"
+    },
+    "public_id": "02aadfa4-81ab-475f-af57-492019960086",
+    "openai_message_id": "msg_ROs9PT5APNlw17XmfDtxCGmX",
+    "openai_created_at": 1719074866,
+    "created_at": {
+      "$date": "2024-06-22T16:47:46.388Z"
+    },
+    "content": "gdzie leżą Niemcy?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    },
+    "visitor_id": "09b8606dc3fa1afdc122c60f64873fb6"
+  },
+  {
+    "_id": {
+      "$oid": "66770037d99d62703f0fe839"
+    },
+    "public_id": "fadbf609-b226-4d31-a06e-cf2c9c7db5cb",
+    "openai_message_id": "msg_tW1WbFPzlC7UVKT5oFmgVXYV",
+    "openai_created_at": 1719074868,
+    "created_at": {
+      "$date": "2024-06-22T16:47:51.345Z"
+    },
+    "content": "Niemcy leżą w Europie Środkowej. Graniczą z Danią na północy, Polską i Czechami na wschodzie, Austrią i Szwajcarią na południu, Francją, Luksemburgiem, Belgią i Holandią na zachodzie.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667147402feceecaea25a988"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66770b55d99d62703f0fe83a"
+    },
+    "public_id": "85ea0aed-66b1-4276-a7b5-99aa52e0bc20",
+    "openai_message_id": "msg_stuKUS23Co79MImPCDJxF21J",
+    "openai_created_at": 1719077717,
+    "created_at": {
+      "$date": "2024-06-22T17:35:17.692Z"
+    },
+    "content": "jakie miasto jest stolicą Danii?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667172772feceecaea25a9d8"
+    },
+    "visitor_id": "6a7bda8dbad8b76aa18d91dce3b751ae"
+  },
+  {
+    "_id": {
+      "$oid": "66770b59d99d62703f0fe83c"
+    },
+    "public_id": "afb9b8de-c455-494c-bbf4-40f2bb5c6dc4",
+    "openai_message_id": "msg_Edj5Vdq9SZw6qfdN5gWoFYyC",
+    "openai_created_at": 1719077721,
+    "created_at": {
+      "$date": "2024-06-22T17:35:21.449Z"
+    },
+    "content": "Stolicą Danii jest Kopenhaga.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667172772feceecaea25a9d8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66770b9fd99d62703f0fe83d"
+    },
+    "public_id": "d433fb01-65dd-4902-94b7-982a9e6b9f8b",
+    "openai_message_id": "msg_r0WME3x3553g4i9EbNoS3cST",
+    "openai_created_at": 1719077790,
+    "created_at": {
+      "$date": "2024-06-22T17:36:31.476Z"
+    },
+    "content": "Stolicą Danii jest Kopenhaga.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667172772feceecaea25a9d8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66770bc9d99d62703f0fe83e"
+    },
+    "public_id": "6b306861-ec13-40d4-b347-4916a7be9d31",
+    "openai_message_id": "msg_l3zP4AQrYaz72JL48wIcZKZe",
+    "openai_created_at": 1719077832,
+    "created_at": {
+      "$date": "2024-06-22T17:37:13.439Z"
+    },
+    "content": "Stolicą Danii jest Kopenhaga.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667172772feceecaea25a9d8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667d661e5ddfba0f02cbeaaa"
+    },
+    "public_id": "9e05e4d9-87db-4887-bb7d-995c82611aaf",
+    "openai_message_id": "msg_EMKQ6CZCZencuzBs6Accaaqr",
+    "openai_created_at": 1719494174,
+    "created_at": {
+      "$date": "2024-06-27T13:16:14.549Z"
+    },
+    "content": "stolica Indii",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "667d65d25ddfba0f02cbeaa9"
+    },
+    "visitor_id": "09b8606dc3fa1afdc122c60f64873fb6"
+  },
+  {
+    "_id": {
+      "$oid": "667d66255ddfba0f02cbeaac"
+    },
+    "public_id": "e981a136-c987-47df-951a-a63bec4fc0ca",
+    "openai_message_id": "msg_3bmOCuBp33iKUnlr6uEGcVYK",
+    "openai_created_at": 1719494179,
+    "created_at": {
+      "$date": "2024-06-27T13:16:21.269Z"
+    },
+    "content": "Stolicą Indii jest Nowe Delhi. ",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667d65d25ddfba0f02cbeaa9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667d665a5ddfba0f02cbeaad"
+    },
+    "public_id": "0d0ae0a3-b033-4936-a019-2e8a12b4ab28",
+    "openai_message_id": "msg_8oTMU8DRFooUW1ZuGbOa3Elz",
+    "openai_created_at": 1719494234,
+    "created_at": {
+      "$date": "2024-06-27T13:17:14.947Z"
+    },
+    "content": "Stolicą Indii jest Nowe Delhi.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667d65d25ddfba0f02cbeaa9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667d66f35ddfba0f02cbeaae"
+    },
+    "public_id": "f69c0aa0-8cc0-4c5e-be89-6e340d4b0e34",
+    "openai_message_id": "msg_AG31aNb8oqlfnPe2oFEw4r9K",
+    "openai_created_at": 1719494387,
+    "created_at": {
+      "$date": "2024-06-27T13:19:47.410Z"
+    },
+    "content": "Stolicą Indii jest Nowe Delhi.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667d65d25ddfba0f02cbeaa9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667d74655ddfba0f02cbeaaf"
+    },
+    "public_id": "34495eda-eadc-4417-9a79-fdd125fd6e83",
+    "openai_message_id": "msg_3DrziHVUGTh4pVLT62GQaBYt",
+    "openai_created_at": 1719497829,
+    "created_at": {
+      "$date": "2024-06-27T14:17:09.996Z"
+    },
+    "content": "Stolicą Indii jest Nowe Delhi.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667d65d25ddfba0f02cbeaa9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667d74a95ddfba0f02cbeab0"
+    },
+    "public_id": "6c693a3f-8278-414a-80c5-6d8308989079",
+    "openai_message_id": "msg_55Y7OxpOfidGz5e0Disasdyk",
+    "openai_created_at": 1719497897,
+    "created_at": {
+      "$date": "2024-06-27T14:18:17.768Z"
+    },
+    "content": "Stolicą Indii jest Nowe Delhi.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667d65d25ddfba0f02cbeaa9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667d869b5ddfba0f02cbeab1"
+    },
+    "public_id": "a8d93de8-1bee-42ad-a28e-a587e0ed938d",
+    "openai_message_id": "msg_L3ygAtDySmAFpbBzJFA7Jr7O",
+    "openai_created_at": 1719502491,
+    "created_at": {
+      "$date": "2024-06-27T15:34:51.794Z"
+    },
+    "content": "Stolicą Indii jest Nowe Delhi.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667d65d25ddfba0f02cbeaa9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667d87825ddfba0f02cbeab2"
+    },
+    "public_id": "b3ea7e99-4725-41a8-8662-bbd269b80351",
+    "openai_message_id": "msg_XI68ndWNQT4jIbHpgDB86UrT",
+    "openai_created_at": 1719502721,
+    "created_at": {
+      "$date": "2024-06-27T15:38:42.349Z"
+    },
+    "content": "Stolicą Indii jest Nowe Delhi.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "667d65d25ddfba0f02cbeaa9"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66828fccce80363fbdf7e116"
+    },
+    "public_id": "2ce0441d-e714-4593-9cd9-e9118f82a01e",
+    "openai_message_id": "msg_Aeb5sKbOPHEG5LlgFzxHhZTI",
+    "openai_created_at": 1719832524,
+    "created_at": {
+      "$date": "2024-07-01T11:15:24.294Z"
+    },
+    "content": "Stolica Japonii?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66828f9cce80363fbdf7e115"
+    },
+    "visitor_id": "4e8a249f35922ae92c7a9f1eca5f0903"
+  },
+  {
+    "_id": {
+      "$oid": "66828fd4ce80363fbdf7e118"
+    },
+    "public_id": "c10a23db-a226-4586-8fcb-561adb58ff4f",
+    "openai_message_id": "msg_BUA70hTl0o0tAm17THw2NGCi",
+    "openai_created_at": 1719832529,
+    "created_at": {
+      "$date": "2024-07-01T11:15:32.409Z"
+    },
+    "content": "Stolica Japonii to Tokio. Jest to jedno z najważniejszych miast na świecie pod względem gospodarczym i kulturowym, pełniące funkcję centrum politycznego i administracyjnego Japoniii.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66828f9cce80363fbdf7e115"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6682d6e4c83f06460860b7b6"
+    },
+    "public_id": "64fff841-c4d9-486e-9ddd-8b75cd48bade",
+    "openai_message_id": "msg_iNomkZbAKqmsNkjZ1EcbtdoT",
+    "openai_created_at": 1719850724,
+    "created_at": {
+      "$date": "2024-07-01T16:18:44.960Z"
+    },
+    "content": "Jakie miasto to stolica Kuby?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66828f9cce80363fbdf7e115"
+    },
+    "visitor_id": "4e8a249f35922ae92c7a9f1eca5f0903"
+  },
+  {
+    "_id": {
+      "$oid": "6682d6ebc83f06460860b7b8"
+    },
+    "public_id": "e81fe243-19f6-44b1-9821-30643c6c1c1d",
+    "openai_message_id": "msg_OFr6YYRU8YZ6HneR0vvJZWEs",
+    "openai_created_at": 1719850729,
+    "created_at": {
+      "$date": "2024-07-01T16:18:51.410Z"
+    },
+    "content": "Stolica Kuby to Hawana (Habana). Jest to największe miasto kraju, główny port oraz wiodące centrum kulturalne, polityczne i gospodarcze Kuby.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66828f9cce80363fbdf7e115"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6682d6fec83f06460860b7b9"
+    },
+    "public_id": "a65a4eb9-570d-401c-b39b-2a44a885804e",
+    "openai_message_id": "msg_Eran520nbtFNMDhCiX1ZuU4w",
+    "openai_created_at": 1719850750,
+    "created_at": {
+      "$date": "2024-07-01T16:19:10.706Z"
+    },
+    "content": "Jakie miasto to stolica Izraela?",
+    "role": "USER",
+    "thread_id": {
+      "$oid": "66828f9cce80363fbdf7e115"
+    },
+    "visitor_id": "4e8a249f35922ae92c7a9f1eca5f0903"
+  },
+  {
+    "_id": {
+      "$oid": "6682d704c83f06460860b7bb"
+    },
+    "public_id": "79677785-7ead-4c8a-b0d9-a97eb10faeb4",
+    "openai_message_id": "msg_jDHZk53VEEojSlF4iLeBylgV",
+    "openai_created_at": 1719850753,
+    "created_at": {
+      "$date": "2024-07-01T16:19:16.911Z"
+    },
+    "content": "Stolica Izraela to Jerozolima. Jest to miasto o wielkim znaczeniu historycznym, religijnym i politycznym, uznawane za święte przez wyznawców judaizmu, chrześcijaństwa i islamu. Pomimo kontrowersji i napięć politycznych związanych z jego statusem, Izrael uznaje Jerozolimę za swoją stolicę.",
+    "role": "ASSISTANT",
+    "thread_id": {
+      "$oid": "66828f9cce80363fbdf7e115"
+    }
+  },
+  {
+    "public_id": "msg_tlzi1d",
+    "content": "Simulated response to \"What is the capital of Poland?\"",
+    "role": "ASSISTANT",
+    "thread_id": "bc6eb266-0236-433d-86db-64397cdc006c",
+    "created_at": "2024-08-20T19:52:02.115Z"
+  },
+  {
+    "public_id": "msg_68iy5",
+    "content": "Simulated response to \"What is the capital of Izrael?\"",
+    "role": "ASSISTANT",
+    "thread_id": "bc6eb266-0236-4300-86db-64397cdc006c",
+    "created_at": "2024-08-20T19:54:51.177Z"
   }
-},
-{
-  "_id": {
-    "$oid": "6671476c2feceecaea25a98c"
-  },
-  "public_id": "cad7a2f0-b025-4443-9c5c-f81de0dccd29",
-  "openai_message_id": "msg_v54wsaNfasrVBjQszxAjG8gj",
-  "openai_created_at": 1718699884,
-  "created_at": {
-    "$date": "2024-06-18T08:38:04.532Z"
-  },
-  "content": "Co jest stolicą Czech?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  },
-  "visitor_id": "09b8606dc3fa1afdc122c60f64873fb6"
-},
-{
-  "_id": {
-    "$oid": "6671476f2feceecaea25a98e"
-  },
-  "public_id": "5132e734-fb52-4519-b9e6-470adbf9b8ee",
-  "openai_message_id": "msg_cUI4pL7jnnfe6dAasysp951X",
-  "openai_created_at": 1718699887,
-  "created_at": {
-    "$date": "2024-06-18T08:38:07.488Z"
-  },
-  "content": "Stolicą Czech jest Praga.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  }
-},
-{
-  "_id": {
-    "$oid": "667153b12feceecaea25a98f"
-  },
-  "public_id": "a5f893ad-fb80-4dee-9cc3-8edb646c36c4",
-  "openai_message_id": "msg_DLx1cmSHyCY08o2HH6ExFp3Z",
-  "openai_created_at": 1718702994,
-  "created_at": {
-    "$date": "2024-06-18T09:30:25.760Z"
-  },
-  "content": "Stolicą Czech jest Praga.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  }
-},
-{
-  "_id": {
-    "$oid": "667158292feceecaea25a990"
-  },
-  "public_id": "3acf1a9c-e832-49a0-98b6-e242e78d0df5",
-  "openai_message_id": "msg_RiejUyLX4CAKBcOstq3H6O4g",
-  "openai_created_at": 1718704169,
-  "created_at": {
-    "$date": "2024-06-18T09:49:29.559Z"
-  },
-  "content": "Co jest stolica Francji?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  },
-  "visitor_id": "09b8606dc3fa1afdc122c60f64873fb6"
-},
-{
-  "_id": {
-    "$oid": "6671582e2feceecaea25a992"
-  },
-  "public_id": "7d36c046-0cc1-41c0-9ef7-aacea17e8280",
-  "openai_message_id": "msg_XDQ9qvZvX1nGALmWJC2BxO1v",
-  "openai_created_at": 1718704173,
-  "created_at": {
-    "$date": "2024-06-18T09:49:34.096Z"
-  },
-  "content": "Stolicą Francji jest Paryż.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  }
-},
-{
-  "_id": {
-    "$oid": "66715ce82feceecaea25a994"
-  },
-  "public_id": "050053f0-7f4a-4aa1-bec6-1a937675ee5e",
-  "openai_message_id": "msg_KB9dvteMWGLRfuLiKDS34PZh",
-  "openai_created_at": 1718705384,
-  "created_at": {
-    "$date": "2024-06-18T10:09:44.244Z"
-  },
-  "content": "jaki jest zielony owoc",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66715cd42feceecaea25a993"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "66715cfd2feceecaea25a996"
-  },
-  "public_id": "ded55c71-5326-4c65-ac04-630ac8b48aa8",
-  "openai_message_id": "msg_4ICXsoWHfYup8rfOgvUswIAq",
-  "openai_created_at": 1718705387,
-  "created_at": {
-    "$date": "2024-06-18T10:10:05.142Z"
-  },
-  "content": "To pytanie może mieć wiele odpowiedzi, ponieważ istnieje wiele owoców, które są zielone albo na zewnątrz, albo w środku. Oto kilka przykładów zielonych owoców:\n\n1. **Avokado** - znane ze swojej kremowej konsystencji i korzyści zdrowotnych, avokado jest owocem, który jest zielony zarówno na zewnątrz, jak i w środku.\n2. **Kiwi** - wyróżnia się intensywnie zielonym miąższem i charakterystycznymi czarnymi nasionkami.\n3. **Jabłko (niektóre odmiany)** - jak 'Granny Smith', które są zielone na zewnątrz i mają jasny, kwaśny smak.\n4. **Winogrona (niektóre odmiany)** - istnieją odmiany winogron, które są zielone i mogą być zarówno słodkie, jak i lekko kwaśne.\n5. **Limetka** - ma zieloną skórkę oraz zielony, kwaśny miąższ i jest często używana jako dodatek smakowy.\n6. **Gruszka (niektóre odmiany)** - takie jak gruszki 'Conference', które mogą być zielone na zewnątrz.\n7. **Papaja** - niektóre odmiany papai mogą być zielone na zewnątrz; miąższ zazwyczaj zmienia kolor gdy owoc dojrzewa.\n8. **Guawa** - często posiada zieloną skórkę oraz może mieć zielony lub różowy miąższ. \n9. **Horned melon (Kiwano)** - posiada zielony miąższ, pomimo zewnętrznej pomarańczowej skórki.\n\nWybór zielonego owocu zależy od kontekstu pytania. Jeśli potrzebujesz informacji o konkretnym zielonym owocu lub jego zastosowaniach, daj mi znać!",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66715cd42feceecaea25a993"
-  }
-},
-{
-  "_id": {
-    "$oid": "66715d072feceecaea25a997"
-  },
-  "public_id": "07220da6-db0b-49b8-9d40-6a1876b4ed64",
-  "openai_message_id": "msg_iLHNREneM77mVuKTc7pNehvM",
-  "openai_created_at": 1718705415,
-  "created_at": {
-    "$date": "2024-06-18T10:10:15.248Z"
-  },
-  "content": "stolica hiszpani",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66715cd42feceecaea25a993"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "66715d0c2feceecaea25a999"
-  },
-  "public_id": "c63cd7e4-c7f9-4ecf-ae80-438b47c75e93",
-  "openai_message_id": "msg_pNEHPch20c9cRTSlgJKja9lH",
-  "openai_created_at": 1718705417,
-  "created_at": {
-    "$date": "2024-06-18T10:10:20.750Z"
-  },
-  "content": "Stolicą Hiszpanii jest Madryt. Madryt jest zarówno stolicą kraju, jak i jednostką administracyjną o nazwie Wspólnota Madrytu. Jest to największe miasto w Hiszpanii i pełni ważną rolę kulturową, polityczną, ekonomiczną i administracyjną w kraju.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66715cd42feceecaea25a993"
-  }
-},
-{
-  "_id": {
-    "$oid": "667161352feceecaea25a99a"
-  },
-  "public_id": "439b66d3-66a8-4541-8320-319ae1c27c2a",
-  "openai_message_id": "msg_B7Bh24VRU1n2luOZMiaCFXAv",
-  "openai_created_at": 1718706485,
-  "created_at": {
-    "$date": "2024-06-18T10:28:05.654Z"
-  },
-  "content": "stolica Polski",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66715cd42feceecaea25a993"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "6671613e2feceecaea25a99c"
-  },
-  "public_id": "bcc5b065-5c86-46e3-a0a6-08f88a0d152f",
-  "openai_message_id": "msg_04uu2mYz3OqVWg1Oyf25mDGF",
-  "openai_created_at": 1718706490,
-  "created_at": {
-    "$date": "2024-06-18T10:28:14.398Z"
-  },
-  "content": "Stolicą Polski jest Warszawa. Warszawa pełni rolę głównego centrum politycznego, kulturalnego i ekonomicznego kraju. Jest to także największe miasto w Polsce pod względem liczby mieszkańców oraz jedno z ważniejszych miast na mapie Europy Środkowo-Wschodniej.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66715cd42feceecaea25a993"
-  }
-},
-{
-  "_id": {
-    "$oid": "6671618d2feceecaea25a99d"
-  },
-  "public_id": "dadd8394-d2ed-450a-9ca4-24a7981c165c",
-  "openai_message_id": "msg_WeAxLjMZuwTD84pz6TbqR12n",
-  "openai_created_at": 1718706573,
-  "created_at": {
-    "$date": "2024-06-18T10:29:33.429Z"
-  },
-  "content": "co jest stolica Czech",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66715cd42feceecaea25a993"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "667161932feceecaea25a99f"
-  },
-  "public_id": "8f043f6a-c2e5-438e-a511-6a41a6989726",
-  "openai_message_id": "msg_kIX1DkLB45ObVjZW5AyESXbG",
-  "openai_created_at": 1718706575,
-  "created_at": {
-    "$date": "2024-06-18T10:29:39.601Z"
-  },
-  "content": "Stolicą Czech jest Praga. Praga jest największym miastem w Czechach oraz ważnym centrum kulturowym, historycznym i ekonomicznym kraju. Znana jest z pięknej architektury, w tym zabytkowego starego miasta, Zamku Praskiego oraz licznych mostów nad rzeką Wełtawą, wśród których najbardziej znany jest Karolowy Most.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66715cd42feceecaea25a993"
-  }
-},
-{
-  "_id": {
-    "$oid": "6671620e2feceecaea25a9a0"
-  },
-  "public_id": "af890607-b654-408e-978b-e725b18b0ead",
-  "openai_message_id": "msg_doPYiOSL51EteDdEgBA7HsEQ",
-  "openai_created_at": 1718706702,
-  "created_at": {
-    "$date": "2024-06-18T10:31:42.557Z"
-  },
-  "content": "Jaka jest stolica Francji?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66715cd42feceecaea25a993"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "667162152feceecaea25a9a2"
-  },
-  "public_id": "8e384768-f363-4911-8029-50654f5b13bf",
-  "openai_message_id": "msg_sLxneIM39pMNX9qoef38u4He",
-  "openai_created_at": 1718706705,
-  "created_at": {
-    "$date": "2024-06-18T10:31:49.349Z"
-  },
-  "content": "Stolicą Francji jest Paryż. Paryż jest znaczącym ośrodkiem kultury, sztuki, mody, gastronomii i polityki nie tylko we Francji, ale i na całym świecie. Miasto jest również znane z takich zabytków jak Wieża Eiffla, Luwr, Katedra Notre-Dame oraz Champs-Élysées.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66715cd42feceecaea25a993"
-  }
-},
-{
-  "_id": {
-    "$oid": "667162662feceecaea25a9a3"
-  },
-  "public_id": "849d3ab6-9c48-436e-8510-9598418ca1f2",
-  "openai_message_id": "msg_TmNd4qWO7ny82jXrFnlyTTgW",
-  "openai_created_at": 1718706789,
-  "created_at": {
-    "$date": "2024-06-18T10:33:10.058Z"
-  },
-  "content": "Czy jabłko to owoc",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66715cd42feceecaea25a993"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "667162702feceecaea25a9a5"
-  },
-  "public_id": "6d7a09a0-a576-4120-966a-896c9ae0270d",
-  "openai_message_id": "msg_MgGgJQ1eX3Q1v68UCUuHJXz9",
-  "openai_created_at": 1718706792,
-  "created_at": {
-    "$date": "2024-06-18T10:33:20.775Z"
-  },
-  "content": "Tak, jabłko jest owocem. Jest to jeden z najbardziej rozpoznawalnych i powszechnie spożywanych owoców na całym świecie, należący do rodziny różowatych (Rosaceae). Jabłka są dostępne w wielu odmianach, różniących się smakiem, kolorem skórki i konsystencją miąższu, ale wszystkie są owocami produkowanymi przez drzewo jabłoni (Malus domestica). Zapewniają wiele korzyści zdrowotnych, zawierając m.in. witaminy, minerały i błonnik.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66715cd42feceecaea25a993"
-  }
-},
-{
-  "_id": {
-    "$oid": "667163f12feceecaea25a9a7"
-  },
-  "public_id": "9d4222d5-4f80-4ff9-8642-3b4f879e6f70",
-  "openai_message_id": "msg_wlPTgMpH0GjGQpw0kvTTWBgp",
-  "openai_created_at": 1718707184,
-  "created_at": {
-    "$date": "2024-06-18T10:39:45.004Z"
-  },
-  "content": "Jakie miasto to stolica Czech?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667163c92feceecaea25a9a6"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "667163f42feceecaea25a9a9"
-  },
-  "public_id": "e3f9a61a-52ac-4a03-8a7b-1118ee5451f2",
-  "openai_message_id": "msg_4fJWJABA5jELVJxnMhSioHAg",
-  "openai_created_at": 1718707188,
-  "created_at": {
-    "$date": "2024-06-18T10:39:48.500Z"
-  },
-  "content": "Stolicą Czech jest Praga.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667163c92feceecaea25a9a6"
-  }
-},
-{
-  "_id": {
-    "$oid": "6671640c2feceecaea25a9aa"
-  },
-  "public_id": "8ea4a363-358a-402e-b00f-5c72e044c415",
-  "openai_message_id": "msg_0buoHfPyi9tGK6Ymd3LCOeDH",
-  "openai_created_at": 1718707212,
-  "created_at": {
-    "$date": "2024-06-18T10:40:12.486Z"
-  },
-  "content": "Jakie miasto to stolica Niemiec?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667163c92feceecaea25a9a6"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "6671640e2feceecaea25a9ac"
-  },
-  "public_id": "8f97cab3-45d0-458e-a86d-fba4c45382f1",
-  "openai_message_id": "msg_v6WWiMcQ0Kw6WA16wRCat1VF",
-  "openai_created_at": 1718707214,
-  "created_at": {
-    "$date": "2024-06-18T10:40:14.874Z"
-  },
-  "content": "Stolicą Niemiec jest Berlin.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667163c92feceecaea25a9a6"
-  }
-},
-{
-  "_id": {
-    "$oid": "6671643b2feceecaea25a9ad"
-  },
-  "public_id": "b69e80d9-3894-49d7-a0ba-dfb587b874cf",
-  "openai_message_id": "msg_Yb4Jler0SWTl5cMUeB4GW9nl",
-  "openai_created_at": 1718707259,
-  "created_at": {
-    "$date": "2024-06-18T10:40:59.468Z"
-  },
-  "content": "jakie miasto to stolica Tunezji?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667163c92feceecaea25a9a6"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "6671643e2feceecaea25a9af"
-  },
-  "public_id": "c48b1f06-3381-4968-a078-5c4de84ac988",
-  "openai_message_id": "msg_vQcWSpICfXwoHNbOZPJHnVv4",
-  "openai_created_at": 1718707262,
-  "created_at": {
-    "$date": "2024-06-18T10:41:02.872Z"
-  },
-  "content": "Stolicą Tunezji jest Tunis.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667163c92feceecaea25a9a6"
-  }
-},
-{
-  "_id": {
-    "$oid": "667164da2feceecaea25a9b1"
-  },
-  "public_id": "63de0097-882f-420e-884e-637abe0b21f1",
-  "openai_message_id": "msg_flCmrAPxZ8gg8cZQhNItHZVN",
-  "openai_created_at": 1718707418,
-  "created_at": {
-    "$date": "2024-06-18T10:43:38.951Z"
-  },
-  "content": "Jakie miasto to stolica Niemiec?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667164d02feceecaea25a9b0"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "667164de2feceecaea25a9b3"
-  },
-  "public_id": "32677719-bbc5-49a1-bc32-6c845e4e1e09",
-  "openai_message_id": "msg_wcEtczyGMWiMg5SaZrBRavnk",
-  "openai_created_at": 1718707422,
-  "created_at": {
-    "$date": "2024-06-18T10:43:42.873Z"
-  },
-  "content": "Stolica Niemiec to Berlin.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667164d02feceecaea25a9b0"
-  }
-},
-{
-  "_id": {
-    "$oid": "667164f22feceecaea25a9b4"
-  },
-  "public_id": "e8e61d66-bca6-42fe-ae23-fc334243c7d1",
-  "openai_message_id": "msg_ZEL1zkpAD4IMlxaQbnBJfctH",
-  "openai_created_at": 1718707442,
-  "created_at": {
-    "$date": "2024-06-18T10:44:02.251Z"
-  },
-  "content": "jakie miasto to stolica Tunezji?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667164d02feceecaea25a9b0"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "667164f52feceecaea25a9b6"
-  },
-  "public_id": "46dd51aa-90b4-42d3-9ccd-9cd17549ad6d",
-  "openai_message_id": "msg_Eum3ggBnPnkacAuHFiERjRP2",
-  "openai_created_at": 1718707444,
-  "created_at": {
-    "$date": "2024-06-18T10:44:05.365Z"
-  },
-  "content": "Stolica Tunezji to Tunis.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667164d02feceecaea25a9b0"
-  }
-},
-{
-  "_id": {
-    "$oid": "667165522feceecaea25a9b7"
-  },
-  "public_id": "e9649323-df14-41b3-9577-3f39e466e6ec",
-  "openai_message_id": "msg_XqKYxBrgTfqA2nE8NK0su9d7",
-  "openai_created_at": 1718707538,
-  "created_at": {
-    "$date": "2024-06-18T10:45:38.952Z"
-  },
-  "content": "Jakie miasto to stolica Czech?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667164d02feceecaea25a9b0"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "667165562feceecaea25a9b9"
-  },
-  "public_id": "116d30ee-b337-428b-b28a-7140e49afe43",
-  "openai_message_id": "msg_NKKUOuD60HAoMlOX3v4NkxKZ",
-  "openai_created_at": 1718707542,
-  "created_at": {
-    "$date": "2024-06-18T10:45:42.869Z"
-  },
-  "content": "Stolica Czech to Praga.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667164d02feceecaea25a9b0"
-  }
-},
-{
-  "_id": {
-    "$oid": "667166102feceecaea25a9bb"
-  },
-  "public_id": "b69d03c4-e723-464c-a3e1-b4ceb063380f",
-  "openai_message_id": "msg_F7mPDZSYsOe5vO6oksgC0xET",
-  "openai_created_at": 1718707727,
-  "created_at": {
-    "$date": "2024-06-18T10:48:48.047Z"
-  },
-  "content": "Jakie miasto jest stolicą Holandii?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667165ff2feceecaea25a9ba"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "667166162feceecaea25a9bd"
-  },
-  "public_id": "ba241174-2505-4925-bb8b-364a887089df",
-  "openai_message_id": "msg_lZXgYRbd5OCvfGcHI9Ph0Rdu",
-  "openai_created_at": 1718707731,
-  "created_at": {
-    "$date": "2024-06-18T10:48:54.162Z"
-  },
-  "content": "Stolicą Holandii jest Amsterdam. Jest to największe miasto kraju oraz jego główny ośrodek kulturalny, finansowy i biznesowy. Amsterdam pełni funkcję stolicy Holandii, choć siedziba rządu oraz większość instytucji państwowych znajduje się w Hadze.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667165ff2feceecaea25a9ba"
-  }
-},
-{
-  "_id": {
-    "$oid": "667166262feceecaea25a9be"
-  },
-  "public_id": "b2d6f816-2ccf-4084-aee5-61dfae85020e",
-  "openai_message_id": "msg_xzIWDAVpzP7wNRCz5uyqFT8B",
-  "openai_created_at": 1718707750,
-  "created_at": {
-    "$date": "2024-06-18T10:49:10.268Z"
-  },
-  "content": "Jakie miasto jest stolicą Polski?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667165ff2feceecaea25a9ba"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "6671662c2feceecaea25a9c0"
-  },
-  "public_id": "41b21858-d480-4a37-84be-9829751fe3a7",
-  "openai_message_id": "msg_ZXvoaKSUt5NVIkdswU4c7VnU",
-  "openai_created_at": 1718707752,
-  "created_at": {
-    "$date": "2024-06-18T10:49:16.963Z"
-  },
-  "content": "Stolicą Polski jest Warszawa. Jest to największe miasto w kraju, pełniące jednocześnie funkcje administracyjne, kulturalne, polityczne, naukowe i gospodarcze. Warszawa jest siedzibą Sejmu, Senatu, Prezydenta RP oraz wielu innych ważnych instytucji państwowych i międzynarodowych.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667165ff2feceecaea25a9ba"
-  }
-},
-{
-  "_id": {
-    "$oid": "66716c1b2feceecaea25a9c1"
-  },
-  "public_id": "16a7cff1-5776-46bb-a1f4-68886e52ef0d",
-  "openai_message_id": "msg_0vwiomUdi4XTxul0qScyVmuw",
-  "openai_created_at": 1718709275,
-  "created_at": {
-    "$date": "2024-06-18T11:14:35.142Z"
-  },
-  "content": "jakie miasto jest stolicą Brazylii ?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667165ff2feceecaea25a9ba"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "66716c232feceecaea25a9c3"
-  },
-  "public_id": "6356144e-ba9d-4688-a287-7df879562b4b",
-  "openai_message_id": "msg_QumuvjJZZKpTJswxsVxbmcem",
-  "openai_created_at": 1718709279,
-  "created_at": {
-    "$date": "2024-06-18T11:14:43.673Z"
-  },
-  "content": "Stolicą Brazylii jest Brasília. Miasto to zostało zaprojektowane przez architekta Oscara Niemeyera i urbanistę Lúcio Costę, a jego założenia urbanistyczne kształtują się na planie zbliżonym do kształtu samolotu. Brasília pełni rolę stolicy od 1960 roku, kiedy to przeniesiono ją z Rio de Janeiro w celu promowania rozwoju wewnętrznych obszarów kraju.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667165ff2feceecaea25a9ba"
-  }
-},
-{
-  "_id": {
-    "$oid": "66716ced2feceecaea25a9c5"
-  },
-  "public_id": "92ecaa26-f711-4023-a4ad-d893c27eff1b",
-  "openai_message_id": "msg_xwQdaC0PhJE7sMdSKAoWASIQ",
-  "openai_created_at": 1718709485,
-  "created_at": {
-    "$date": "2024-06-18T11:18:05.833Z"
-  },
-  "content": "Jakie miasto jest stolicą Hiszpanii?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66716cbf2feceecaea25a9c4"
-  },
-  "visitor_id": "249b40684f63f5a52e40108c5dab1bfe"
-},
-{
-  "_id": {
-    "$oid": "66716cf32feceecaea25a9c7"
-  },
-  "public_id": "fe8b73bd-a0c2-45a0-9438-4e4e16b40a9e",
-  "openai_message_id": "msg_IehLskcVD0OR8v0ohbMjzyxW",
-  "openai_created_at": 1718709488,
-  "created_at": {
-    "$date": "2024-06-18T11:18:11.036Z"
-  },
-  "content": "Stolicą Hiszpanii jest Madryt. Jest to jedna z podstawowych wiedzy ogólnej. Czy potrzebujesz dodatkowych informacji na temat tego miasta lub Hiszpanii?",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66716cbf2feceecaea25a9c4"
-  }
-},
-{
-  "_id": {
-    "$oid": "66716d1a2feceecaea25a9c8"
-  },
-  "public_id": "ae749e33-caa8-432f-92b1-1a508907ddb1",
-  "openai_message_id": "msg_SJVDft0qk4CV1nZTMzntMyPO",
-  "openai_created_at": 1718709530,
-  "created_at": {
-    "$date": "2024-06-18T11:18:50.881Z"
-  },
-  "content": "Jakie miasto jest stolicą Chin?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66716cbf2feceecaea25a9c4"
-  },
-  "visitor_id": "249b40684f63f5a52e40108c5dab1bfe"
-},
-{
-  "_id": {
-    "$oid": "66716d1f2feceecaea25a9ca"
-  },
-  "public_id": "1f88a31c-7f1e-4f1a-96e3-9b0dbd8a31c8",
-  "openai_message_id": "msg_65GjRHqXHVDEn2Np0lwidxWb",
-  "openai_created_at": 1718709533,
-  "created_at": {
-    "$date": "2024-06-18T11:18:55.863Z"
-  },
-  "content": "Stolicą Chin jest Pekin. Jest to również wiedza ogólna, często wymagana przy podstawowych informacjach geograficznych o państwach. Czy istnieje coś więcej, co chciałbyś wiedzieć na temat Chin?",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66716cbf2feceecaea25a9c4"
-  }
-},
-{
-  "_id": {
-    "$oid": "66716d442feceecaea25a9cb"
-  },
-  "public_id": "b969f5fa-0688-47fe-b164-55cdcd948889",
-  "openai_message_id": "msg_x0HiyuVa7kqtryV9d0OQOVGM",
-  "openai_created_at": 1718709572,
-  "created_at": {
-    "$date": "2024-06-18T11:19:32.863Z"
-  },
-  "content": "Jakie miasto jest stolicą Bangladeszu?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66716cbf2feceecaea25a9c4"
-  },
-  "visitor_id": "249b40684f63f5a52e40108c5dab1bfe"
-},
-{
-  "_id": {
-    "$oid": "66716d492feceecaea25a9cd"
-  },
-  "public_id": "4bde258b-7887-4393-80c0-e9ca4cf8c86b",
-  "openai_message_id": "msg_KwFJvOpBn2FP4qx9r954CZhK",
-  "openai_created_at": 1718709575,
-  "created_at": {
-    "$date": "2024-06-18T11:19:37.940Z"
-  },
-  "content": "Stolicą Bangladeszu jest Dhaka. Jest to duże, gęsto zaludnione miasto oraz ważny ośrodek gospodarczy, kulturalny i polityczny kraju. Czy mogę pomóc Ci jeszcze z jakimiś informacjami na temat Bangladeszu lub innych krajów?",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66716cbf2feceecaea25a9c4"
-  }
-},
-{
-  "_id": {
-    "$oid": "66716fa22feceecaea25a9cf"
-  },
-  "public_id": "417c173c-2aff-4af4-a18c-500a9563b8cc",
-  "openai_message_id": "msg_jP3eWqQyfMynLbvBsLNLSfSz",
-  "openai_created_at": 1718710178,
-  "created_at": {
-    "$date": "2024-06-18T11:29:38.698Z"
-  },
-  "content": "Jakie miasto jest stolicą Grecji?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66716f912feceecaea25a9ce"
-  },
-  "visitor_id": "249b40684f63f5a52e40108c5dab1bfe"
-},
-{
-  "_id": {
-    "$oid": "66716fa72feceecaea25a9d1"
-  },
-  "public_id": "04a8425e-6ba1-4ae7-aa09-0b62e40a623e",
-  "openai_message_id": "msg_yB1ApbHuxqVGjvLI9mh96k8o",
-  "openai_created_at": 1718710182,
-  "created_at": {
-    "$date": "2024-06-18T11:29:43.805Z"
-  },
-  "content": "Stolicą Grecji jest Ateny. Jest to wiedza ogólna.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66716f912feceecaea25a9ce"
-  }
-},
-{
-  "_id": {
-    "$oid": "66716fbf2feceecaea25a9d2"
-  },
-  "public_id": "82680ca0-c870-4fe1-9fe0-9fead1707ea8",
-  "openai_message_id": "msg_Hq3n24nwIB13ibtMKhi6pOiE",
-  "openai_created_at": 1718710207,
-  "created_at": {
-    "$date": "2024-06-18T11:30:07.717Z"
-  },
-  "content": "Jakie miasto jest stolicą Kolumbii?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66716f912feceecaea25a9ce"
-  },
-  "visitor_id": "249b40684f63f5a52e40108c5dab1bfe"
-},
-{
-  "_id": {
-    "$oid": "66716fc32feceecaea25a9d4"
-  },
-  "public_id": "817889cb-6cee-4570-a2e9-19f86e8397e9",
-  "openai_message_id": "msg_y3h5AKzDVh2emTQey4SCzKgO",
-  "openai_created_at": 1718710210,
-  "created_at": {
-    "$date": "2024-06-18T11:30:11.934Z"
-  },
-  "content": "Stolicą Kolumbii jest Bogota. Jest to wiedza ogólna.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66716f912feceecaea25a9ce"
-  }
-},
-{
-  "_id": {
-    "$oid": "66716fee2feceecaea25a9d5"
-  },
-  "public_id": "f8035f0c-ddb3-4930-879d-7af6d5287e78",
-  "openai_message_id": "msg_l7RgiODKssBAatmfGJuflIF9",
-  "openai_created_at": 1718710254,
-  "created_at": {
-    "$date": "2024-06-18T11:30:54.169Z"
-  },
-  "content": "Jakie miasto jest stolicą Iranu?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66716f912feceecaea25a9ce"
-  },
-  "visitor_id": "249b40684f63f5a52e40108c5dab1bfe"
-},
-{
-  "_id": {
-    "$oid": "66716ff22feceecaea25a9d7"
-  },
-  "public_id": "ec69f9e5-611f-44b4-a0d3-112325ea08ec",
-  "openai_message_id": "msg_ICYx8CrWBNwMsCDJitHQGYFY",
-  "openai_created_at": 1718710258,
-  "created_at": {
-    "$date": "2024-06-18T11:30:58.866Z"
-  },
-  "content": "Stolicą Iranu jest Teheran. Jest to wiedza ogólna.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66716f912feceecaea25a9ce"
-  }
-},
-{
-  "_id": {
-    "$oid": "667172b22feceecaea25a9d9"
-  },
-  "public_id": "554599ef-281c-4937-98aa-df182dd0b2cb",
-  "openai_message_id": "msg_X5wICeCbzoeZrXiD3Vw9DPWI",
-  "openai_created_at": 1718710962,
-  "created_at": {
-    "$date": "2024-06-18T11:42:42.774Z"
-  },
-  "content": "jakie miasto to stolica Indii?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667172772feceecaea25a9d8"
-  },
-  "visitor_id": "6a7bda8dbad8b76aa18d91dce3b751ae"
-},
-{
-  "_id": {
-    "$oid": "667172b62feceecaea25a9db"
-  },
-  "public_id": "bde0ab17-be2a-4da3-b55a-52647c98a5f6",
-  "openai_message_id": "msg_rVImMpjEbusLFNYuj8bM9Adg",
-  "openai_created_at": 1718710965,
-  "created_at": {
-    "$date": "2024-06-18T11:42:46.264Z"
-  },
-  "content": "Stolicą Indii jest Nowe Delhi.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667172772feceecaea25a9d8"
-  }
-},
-{
-  "_id": {
-    "$oid": "667172d92feceecaea25a9dc"
-  },
-  "public_id": "28a27774-95cf-4f44-92ab-9fd003676f81",
-  "openai_message_id": "msg_2ia60vfWbEPBkoxIp7xs2I0T",
-  "openai_created_at": 1718711001,
-  "created_at": {
-    "$date": "2024-06-18T11:43:21.873Z"
-  },
-  "content": "Jakie miasto to stolica Pakistanu?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667172772feceecaea25a9d8"
-  },
-  "visitor_id": "6a7bda8dbad8b76aa18d91dce3b751ae"
-},
-{
-  "_id": {
-    "$oid": "667172dc2feceecaea25a9de"
-  },
-  "public_id": "f613bae6-b1b1-4a26-b7ae-cec4be2f4489",
-  "openai_message_id": "msg_kw14k6mOeQ0pAVGogePSj9gN",
-  "openai_created_at": 1718711004,
-  "created_at": {
-    "$date": "2024-06-18T11:43:24.795Z"
-  },
-  "content": "Stolicą Pakistanu jest Islamabad.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667172772feceecaea25a9d8"
-  }
-},
-{
-  "_id": {
-    "$oid": "667175dc2feceecaea25a9df"
-  },
-  "public_id": "9b8f9125-cca4-4765-8d82-a44da5cb6831",
-  "openai_message_id": "msg_AHdywIdtIUU038Vu1xwt7TP6",
-  "openai_created_at": 1718711772,
-  "created_at": {
-    "$date": "2024-06-18T11:56:12.147Z"
-  },
-  "content": "Jakie miasto jest stolicą Australii?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667172772feceecaea25a9d8"
-  },
-  "visitor_id": "6a7bda8dbad8b76aa18d91dce3b751ae"
-},
-{
-  "_id": {
-    "$oid": "667175e02feceecaea25a9e1"
-  },
-  "public_id": "ee8dbd1e-f724-41c2-8a6c-97f674a18bf5",
-  "openai_message_id": "msg_Pta9l8ssYDG5OSHX8GcIzoTI",
-  "openai_created_at": 1718711775,
-  "created_at": {
-    "$date": "2024-06-18T11:56:16.662Z"
-  },
-  "content": "Stolicą Australii jest Canberra.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667172772feceecaea25a9d8"
-  }
-},
-{
-  "_id": {
-    "$oid": "66717ccd2feceecaea25a9e3"
-  },
-  "public_id": "ac7558d5-85f7-418c-905c-e13a40a9f352",
-  "openai_message_id": "msg_GPLsunFUZ5EzgQ8T0NvmTb0Q",
-  "openai_created_at": 1718713549,
-  "created_at": {
-    "$date": "2024-06-18T12:25:49.461Z"
-  },
-  "content": "Jakie miasto jest stolicą Anglii?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66717c632feceecaea25a9e2"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "66717cd22feceecaea25a9e5"
-  },
-  "public_id": "29fb7b7c-a9ef-4414-9c39-ae24fc760cab",
-  "openai_message_id": "msg_z2XQpTzHvIchyIb2dQIGWJ9P",
-  "openai_created_at": 1718713553,
-  "created_at": {
-    "$date": "2024-06-18T12:25:54.128Z"
-  },
-  "content": "Stolicą Anglii jest Londyn.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66717c632feceecaea25a9e2"
-  }
-},
-{
-  "_id": {
-    "$oid": "66717d112feceecaea25a9e6"
-  },
-  "public_id": "058e8f21-c27e-441e-9ed4-6747af580967",
-  "openai_message_id": "msg_NkqAvc1yFtjkpM6uKT3vUvB5",
-  "openai_created_at": 1718713616,
-  "created_at": {
-    "$date": "2024-06-18T12:26:57.100Z"
-  },
-  "content": "Jakie miasto jest stolicą Stanów Zjednoczonych?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66717c632feceecaea25a9e2"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "66717d142feceecaea25a9e8"
-  },
-  "public_id": "222cb894-f053-436d-8ad1-dc9cc51c0d5b",
-  "openai_message_id": "msg_d3uxKuGW6UWBcKIuoOPFZY1U",
-  "openai_created_at": 1718713619,
-  "created_at": {
-    "$date": "2024-06-18T12:27:00.634Z"
-  },
-  "content": "Stolicą Stanów Zjednoczonych jest Waszyngton.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66717c632feceecaea25a9e2"
-  }
-},
-{
-  "_id": {
-    "$oid": "66717eb32feceecaea25a9e9"
-  },
-  "public_id": "8b4beedd-4fa9-4f91-88c5-11f79777b73a",
-  "openai_message_id": "msg_YMslO7vhVWTKgsmBA6kJ6bHA",
-  "openai_created_at": 1718714035,
-  "created_at": {
-    "$date": "2024-06-18T12:33:55.425Z"
-  },
-  "content": "Jakie miasto jest stolicą Holandii?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66717c632feceecaea25a9e2"
-  },
-  "visitor_id": "c8186690203516a316f710061279cddf"
-},
-{
-  "_id": {
-    "$oid": "66717eb92feceecaea25a9eb"
-  },
-  "public_id": "0fedd41a-b988-4f0f-8f4d-71b25505d8f8",
-  "openai_message_id": "msg_yG7VW4ZTJMtP4VaYaLfUE34n",
-  "openai_created_at": 1718714041,
-  "created_at": {
-    "$date": "2024-06-18T12:34:01.522Z"
-  },
-  "content": "Stolicą Holandii jest Amsterdam.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66717c632feceecaea25a9e2"
-  }
-},
-{
-  "_id": {
-    "$oid": "667417b779dc5482de8d1cad"
-  },
-  "public_id": "fe890c3a-0eea-4741-abc3-91b547ee2379",
-  "openai_message_id": "msg_NIP8ycsOBYrD7Vcpw0zsR4Au",
-  "openai_created_at": 1718884279,
-  "created_at": {
-    "$date": "2024-06-20T11:51:19.607Z"
-  },
-  "content": "Jakie miasto jest stolicą Hiszpanii?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  },
-  "visitor_id": "5769d140cd6bba4207d5f3742e0e5fc6"
-},
-{
-  "_id": {
-    "$oid": "667417bb79dc5482de8d1caf"
-  },
-  "public_id": "608621c2-a63c-4e9a-a823-6c14883e6867",
-  "openai_message_id": "msg_wASlDthzynZQyNKV85WLS9yc",
-  "openai_created_at": 1718884283,
-  "created_at": {
-    "$date": "2024-06-20T11:51:23.847Z"
-  },
-  "content": "Stolicą Hiszpanii jest Madryt.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  }
-},
-{
-  "_id": {
-    "$oid": "6674183279dc5482de8d1cb0"
-  },
-  "public_id": "f32caf88-ca2a-4c6b-add9-86a24e56ccd4",
-  "openai_message_id": "msg_xyhSaKa3F3LKK4dyiSQtJ6AL",
-  "openai_created_at": 1718884402,
-  "created_at": {
-    "$date": "2024-06-20T11:53:22.497Z"
-  },
-  "content": "Jakie miasto jest stolicą Polski?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  },
-  "visitor_id": "5769d140cd6bba4207d5f3742e0e5fc6"
-},
-{
-  "_id": {
-    "$oid": "6674183679dc5482de8d1cb2"
-  },
-  "public_id": "299e1321-8981-4c9d-9e75-0fd5291ed5ed",
-  "openai_message_id": "msg_w7VLI41x824B8WOWXxkbegQO",
-  "openai_created_at": 1718884405,
-  "created_at": {
-    "$date": "2024-06-20T11:53:26.255Z"
-  },
-  "content": "Stolicą Polski jest Warszawa.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  }
-},
-{
-  "_id": {
-    "$oid": "667418cf79dc5482de8d1cb3"
-  },
-  "public_id": "af3c2f94-c7f3-446c-964a-40b2302f6036",
-  "openai_message_id": "msg_finigh2GhA6A0TaLSmmRnMz7",
-  "openai_created_at": 1718884559,
-  "created_at": {
-    "$date": "2024-06-20T11:55:59.992Z"
-  },
-  "content": "Jakie miasto jest stolicą Czech?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  },
-  "visitor_id": "5769d140cd6bba4207d5f3742e0e5fc6"
-},
-{
-  "_id": {
-    "$oid": "667418d379dc5482de8d1cb5"
-  },
-  "public_id": "8b4def12-d26f-4488-95ca-62eb9af5de19",
-  "openai_message_id": "msg_Oo8i3F83r63rgIDVdfMm4q9n",
-  "openai_created_at": 1718884563,
-  "created_at": {
-    "$date": "2024-06-20T11:56:03.802Z"
-  },
-  "content": "Stolicą Czech jest Praga.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  }
-},
-{
-  "_id": {
-    "$oid": "6676ce80d99d62703f0fe82d"
-  },
-  "public_id": "b148b761-db59-4888-b7fa-71fc909013c0",
-  "openai_message_id": "msg_cLrYcP0sY29dmUGcqpaXtm5d",
-  "openai_created_at": 1719062144,
-  "created_at": {
-    "$date": "2024-06-22T13:15:44.924Z"
-  },
-  "content": "Czy Barcelona jest stolicą Hiszpani?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  },
-  "visitor_id": "09b8606dc3fa1afdc122c60f64873fb6"
-},
-{
-  "_id": {
-    "$oid": "6676ce86d99d62703f0fe82f"
-  },
-  "public_id": "fb0d1021-8ec4-48a3-91cf-a80d8e0a239b",
-  "openai_message_id": "msg_KcfbYi5o1TRN4Tvh0AfbXZgk",
-  "openai_created_at": 1719062149,
-  "created_at": {
-    "$date": "2024-06-22T13:15:50.304Z"
-  },
-  "content": "Nie, Barcelona nie jest stolicą Hiszpanii. Stolicą Hiszpanii jest Madryt.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  }
-},
-{
-  "_id": {
-    "$oid": "6676cfb9d99d62703f0fe830"
-  },
-  "public_id": "ca2cb0d9-fe76-47c3-bb6d-f1e9959c500e",
-  "openai_message_id": "msg_XBnRvCfEPwRLmg0DpusIKBVe",
-  "openai_created_at": 1719062456,
-  "created_at": {
-    "$date": "2024-06-22T13:20:57.941Z"
-  },
-  "content": "Nie, Barcelona nie jest stolicą Hiszpanii. Stolicą Hiszpanii jest Madryt.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  }
-},
-{
-  "_id": {
-    "$oid": "6676e161d99d62703f0fe831"
-  },
-  "public_id": "fcae4421-0a1a-4b7f-823f-4e261020a3a2",
-  "openai_message_id": "msg_4qCwMPl4cG6t2fGwrb1uHsmJ",
-  "openai_created_at": 1719066977,
-  "created_at": {
-    "$date": "2024-06-22T14:36:17.106Z"
-  },
-  "content": "Jakie miasto jest stolicą Japonii?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  },
-  "visitor_id": "09b8606dc3fa1afdc122c60f64873fb6"
-},
-{
-  "_id": {
-    "$oid": "6676e164d99d62703f0fe833"
-  },
-  "public_id": "89737068-f5be-4a75-a1bd-2b9b043ae8c4",
-  "openai_message_id": "msg_SXlZGyWDblhXcwGmFKu1YvZh",
-  "openai_created_at": 1719066980,
-  "created_at": {
-    "$date": "2024-06-22T14:36:20.396Z"
-  },
-  "content": "Stolicą Japonii jest Tokio.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  }
-},
-{
-  "_id": {
-    "$oid": "6676fd8ad99d62703f0fe834"
-  },
-  "public_id": "867380aa-d921-4148-b662-09e23bee4c69",
-  "openai_message_id": "msg_gvCmyFOQqtRC8qGgvGhJtgW9",
-  "openai_created_at": 1719074186,
-  "created_at": {
-    "$date": "2024-06-22T16:36:26.847Z"
-  },
-  "content": "co jest stolicą Niemiec?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  },
-  "visitor_id": "09b8606dc3fa1afdc122c60f64873fb6"
-},
-{
-  "_id": {
-    "$oid": "6676fd8ed99d62703f0fe836"
-  },
-  "public_id": "9a7c4f5c-9d65-48d8-88d4-28d8105ce5af",
-  "openai_message_id": "msg_pK3wYpSGjtr6skkFh8PefYFM",
-  "openai_created_at": 1719074189,
-  "created_at": {
-    "$date": "2024-06-22T16:36:30.613Z"
-  },
-  "content": "Stolicą Niemiec jest Berlin.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  }
-},
-{
-  "_id": {
-    "$oid": "66770032d99d62703f0fe837"
-  },
-  "public_id": "02aadfa4-81ab-475f-af57-492019960086",
-  "openai_message_id": "msg_ROs9PT5APNlw17XmfDtxCGmX",
-  "openai_created_at": 1719074866,
-  "created_at": {
-    "$date": "2024-06-22T16:47:46.388Z"
-  },
-  "content": "gdzie leżą Niemcy?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  },
-  "visitor_id": "09b8606dc3fa1afdc122c60f64873fb6"
-},
-{
-  "_id": {
-    "$oid": "66770037d99d62703f0fe839"
-  },
-  "public_id": "fadbf609-b226-4d31-a06e-cf2c9c7db5cb",
-  "openai_message_id": "msg_tW1WbFPzlC7UVKT5oFmgVXYV",
-  "openai_created_at": 1719074868,
-  "created_at": {
-    "$date": "2024-06-22T16:47:51.345Z"
-  },
-  "content": "Niemcy leżą w Europie Środkowej. Graniczą z Danią na północy, Polską i Czechami na wschodzie, Austrią i Szwajcarią na południu, Francją, Luksemburgiem, Belgią i Holandią na zachodzie.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667147402feceecaea25a988"
-  }
-},
-{
-  "_id": {
-    "$oid": "66770b55d99d62703f0fe83a"
-  },
-  "public_id": "85ea0aed-66b1-4276-a7b5-99aa52e0bc20",
-  "openai_message_id": "msg_stuKUS23Co79MImPCDJxF21J",
-  "openai_created_at": 1719077717,
-  "created_at": {
-    "$date": "2024-06-22T17:35:17.692Z"
-  },
-  "content": "jakie miasto jest stolicą Danii?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667172772feceecaea25a9d8"
-  },
-  "visitor_id": "6a7bda8dbad8b76aa18d91dce3b751ae"
-},
-{
-  "_id": {
-    "$oid": "66770b59d99d62703f0fe83c"
-  },
-  "public_id": "afb9b8de-c455-494c-bbf4-40f2bb5c6dc4",
-  "openai_message_id": "msg_Edj5Vdq9SZw6qfdN5gWoFYyC",
-  "openai_created_at": 1719077721,
-  "created_at": {
-    "$date": "2024-06-22T17:35:21.449Z"
-  },
-  "content": "Stolicą Danii jest Kopenhaga.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667172772feceecaea25a9d8"
-  }
-},
-{
-  "_id": {
-    "$oid": "66770b9fd99d62703f0fe83d"
-  },
-  "public_id": "d433fb01-65dd-4902-94b7-982a9e6b9f8b",
-  "openai_message_id": "msg_r0WME3x3553g4i9EbNoS3cST",
-  "openai_created_at": 1719077790,
-  "created_at": {
-    "$date": "2024-06-22T17:36:31.476Z"
-  },
-  "content": "Stolicą Danii jest Kopenhaga.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667172772feceecaea25a9d8"
-  }
-},
-{
-  "_id": {
-    "$oid": "66770bc9d99d62703f0fe83e"
-  },
-  "public_id": "6b306861-ec13-40d4-b347-4916a7be9d31",
-  "openai_message_id": "msg_l3zP4AQrYaz72JL48wIcZKZe",
-  "openai_created_at": 1719077832,
-  "created_at": {
-    "$date": "2024-06-22T17:37:13.439Z"
-  },
-  "content": "Stolicą Danii jest Kopenhaga.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667172772feceecaea25a9d8"
-  }
-},
-{
-  "_id": {
-    "$oid": "667d661e5ddfba0f02cbeaaa"
-  },
-  "public_id": "9e05e4d9-87db-4887-bb7d-995c82611aaf",
-  "openai_message_id": "msg_EMKQ6CZCZencuzBs6Accaaqr",
-  "openai_created_at": 1719494174,
-  "created_at": {
-    "$date": "2024-06-27T13:16:14.549Z"
-  },
-  "content": "stolica Indii",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "667d65d25ddfba0f02cbeaa9"
-  },
-  "visitor_id": "09b8606dc3fa1afdc122c60f64873fb6"
-},
-{
-  "_id": {
-    "$oid": "667d66255ddfba0f02cbeaac"
-  },
-  "public_id": "e981a136-c987-47df-951a-a63bec4fc0ca",
-  "openai_message_id": "msg_3bmOCuBp33iKUnlr6uEGcVYK",
-  "openai_created_at": 1719494179,
-  "created_at": {
-    "$date": "2024-06-27T13:16:21.269Z"
-  },
-  "content": "Stolicą Indii jest Nowe Delhi. ",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667d65d25ddfba0f02cbeaa9"
-  }
-},
-{
-  "_id": {
-    "$oid": "667d665a5ddfba0f02cbeaad"
-  },
-  "public_id": "0d0ae0a3-b033-4936-a019-2e8a12b4ab28",
-  "openai_message_id": "msg_8oTMU8DRFooUW1ZuGbOa3Elz",
-  "openai_created_at": 1719494234,
-  "created_at": {
-    "$date": "2024-06-27T13:17:14.947Z"
-  },
-  "content": "Stolicą Indii jest Nowe Delhi.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667d65d25ddfba0f02cbeaa9"
-  }
-},
-{
-  "_id": {
-    "$oid": "667d66f35ddfba0f02cbeaae"
-  },
-  "public_id": "f69c0aa0-8cc0-4c5e-be89-6e340d4b0e34",
-  "openai_message_id": "msg_AG31aNb8oqlfnPe2oFEw4r9K",
-  "openai_created_at": 1719494387,
-  "created_at": {
-    "$date": "2024-06-27T13:19:47.410Z"
-  },
-  "content": "Stolicą Indii jest Nowe Delhi.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667d65d25ddfba0f02cbeaa9"
-  }
-},
-{
-  "_id": {
-    "$oid": "667d74655ddfba0f02cbeaaf"
-  },
-  "public_id": "34495eda-eadc-4417-9a79-fdd125fd6e83",
-  "openai_message_id": "msg_3DrziHVUGTh4pVLT62GQaBYt",
-  "openai_created_at": 1719497829,
-  "created_at": {
-    "$date": "2024-06-27T14:17:09.996Z"
-  },
-  "content": "Stolicą Indii jest Nowe Delhi.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667d65d25ddfba0f02cbeaa9"
-  }
-},
-{
-  "_id": {
-    "$oid": "667d74a95ddfba0f02cbeab0"
-  },
-  "public_id": "6c693a3f-8278-414a-80c5-6d8308989079",
-  "openai_message_id": "msg_55Y7OxpOfidGz5e0Disasdyk",
-  "openai_created_at": 1719497897,
-  "created_at": {
-    "$date": "2024-06-27T14:18:17.768Z"
-  },
-  "content": "Stolicą Indii jest Nowe Delhi.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667d65d25ddfba0f02cbeaa9"
-  }
-},
-{
-  "_id": {
-    "$oid": "667d869b5ddfba0f02cbeab1"
-  },
-  "public_id": "a8d93de8-1bee-42ad-a28e-a587e0ed938d",
-  "openai_message_id": "msg_L3ygAtDySmAFpbBzJFA7Jr7O",
-  "openai_created_at": 1719502491,
-  "created_at": {
-    "$date": "2024-06-27T15:34:51.794Z"
-  },
-  "content": "Stolicą Indii jest Nowe Delhi.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667d65d25ddfba0f02cbeaa9"
-  }
-},
-{
-  "_id": {
-    "$oid": "667d87825ddfba0f02cbeab2"
-  },
-  "public_id": "b3ea7e99-4725-41a8-8662-bbd269b80351",
-  "openai_message_id": "msg_XI68ndWNQT4jIbHpgDB86UrT",
-  "openai_created_at": 1719502721,
-  "created_at": {
-    "$date": "2024-06-27T15:38:42.349Z"
-  },
-  "content": "Stolicą Indii jest Nowe Delhi.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "667d65d25ddfba0f02cbeaa9"
-  }
-},
-{
-  "_id": {
-    "$oid": "66828fccce80363fbdf7e116"
-  },
-  "public_id": "2ce0441d-e714-4593-9cd9-e9118f82a01e",
-  "openai_message_id": "msg_Aeb5sKbOPHEG5LlgFzxHhZTI",
-  "openai_created_at": 1719832524,
-  "created_at": {
-    "$date": "2024-07-01T11:15:24.294Z"
-  },
-  "content": "Stolica Japonii?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66828f9cce80363fbdf7e115"
-  },
-  "visitor_id": "4e8a249f35922ae92c7a9f1eca5f0903"
-},
-{
-  "_id": {
-    "$oid": "66828fd4ce80363fbdf7e118"
-  },
-  "public_id": "c10a23db-a226-4586-8fcb-561adb58ff4f",
-  "openai_message_id": "msg_BUA70hTl0o0tAm17THw2NGCi",
-  "openai_created_at": 1719832529,
-  "created_at": {
-    "$date": "2024-07-01T11:15:32.409Z"
-  },
-  "content": "Stolica Japonii to Tokio. Jest to jedno z najważniejszych miast na świecie pod względem gospodarczym i kulturowym, pełniące funkcję centrum politycznego i administracyjnego Japoniii.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66828f9cce80363fbdf7e115"
-  }
-},
-{
-  "_id": {
-    "$oid": "6682d6e4c83f06460860b7b6"
-  },
-  "public_id": "64fff841-c4d9-486e-9ddd-8b75cd48bade",
-  "openai_message_id": "msg_iNomkZbAKqmsNkjZ1EcbtdoT",
-  "openai_created_at": 1719850724,
-  "created_at": {
-    "$date": "2024-07-01T16:18:44.960Z"
-  },
-  "content": "Jakie miasto to stolica Kuby?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66828f9cce80363fbdf7e115"
-  },
-  "visitor_id": "4e8a249f35922ae92c7a9f1eca5f0903"
-},
-{
-  "_id": {
-    "$oid": "6682d6ebc83f06460860b7b8"
-  },
-  "public_id": "e81fe243-19f6-44b1-9821-30643c6c1c1d",
-  "openai_message_id": "msg_OFr6YYRU8YZ6HneR0vvJZWEs",
-  "openai_created_at": 1719850729,
-  "created_at": {
-    "$date": "2024-07-01T16:18:51.410Z"
-  },
-  "content": "Stolica Kuby to Hawana (Habana). Jest to największe miasto kraju, główny port oraz wiodące centrum kulturalne, polityczne i gospodarcze Kuby.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66828f9cce80363fbdf7e115"
-  }
-},
-{
-  "_id": {
-    "$oid": "6682d6fec83f06460860b7b9"
-  },
-  "public_id": "a65a4eb9-570d-401c-b39b-2a44a885804e",
-  "openai_message_id": "msg_Eran520nbtFNMDhCiX1ZuU4w",
-  "openai_created_at": 1719850750,
-  "created_at": {
-    "$date": "2024-07-01T16:19:10.706Z"
-  },
-  "content": "Jakie miasto to stolica Izraela?",
-  "role": "USER",
-  "thread_id": {
-    "$oid": "66828f9cce80363fbdf7e115"
-  },
-  "visitor_id": "4e8a249f35922ae92c7a9f1eca5f0903"
-},
-{
-  "_id": {
-    "$oid": "6682d704c83f06460860b7bb"
-  },
-  "public_id": "79677785-7ead-4c8a-b0d9-a97eb10faeb4",
-  "openai_message_id": "msg_jDHZk53VEEojSlF4iLeBylgV",
-  "openai_created_at": 1719850753,
-  "created_at": {
-    "$date": "2024-07-01T16:19:16.911Z"
-  },
-  "content": "Stolica Izraela to Jerozolima. Jest to miasto o wielkim znaczeniu historycznym, religijnym i politycznym, uznawane za święte przez wyznawców judaizmu, chrześcijaństwa i islamu. Pomimo kontrowersji i napięć politycznych związanych z jego statusem, Izrael uznaje Jerozolimę za swoją stolicę.",
-  "role": "ASSISTANT",
-  "thread_id": {
-    "$oid": "66828f9cce80363fbdf7e115"
-  }
-}]
+]
