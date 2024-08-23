@@ -1558,5 +1558,19 @@
     "role": "ASSISTANT",
     "thread_id": "bc6eb266-0236-4300-86db-64397cdc006c",
     "created_at": "2024-08-20T19:54:51.177Z"
+  },
+  {
+    "public_id": "msg_zjmni",
+    "content": "Simulated response to \"What is the capital of Izrael?\"",
+    "role": "ASSISTANT",
+    "thread_id": "bc6eb266-0236-4300-86db-64397cdc006c",
+    "created_at": "2024-08-23T13:59:48.465Z"
+  },
+  {
+    "public_id": "msg_wazzfe",
+    "content": "Simulated response to \"What is the capital of Izrael?\"",
+    "role": "ASSISTANT",
+    "thread_id": "bc6eb266-0236-4300-86db-64397cdc006c",
+    "created_at": "2024-08-23T13:59:54.227Z"
   }
 ]

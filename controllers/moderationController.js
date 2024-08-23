@@ -1,4 +1,8 @@
-function moderate(input) {
+// const users = await prisma.db.users (generate types) Model
+// users.create({})
+
+// service, helpers, 
+export function moderate(input) {
   // Sprawdzenie, czy input zawiera jakieś zakazane słowa
   const forbiddenWords = ['badword', 'anotherbadword'];
 
@@ -17,6 +21,3 @@ console.log(moderate("This is a clean message.")); // powinno zwrócić true
 console.log(moderate("This message contains badword.")); // powinno zwrócić false
 console.log(moderate("Another message with anotherbadword.")); // powinno zwrócić false
 
-module.exports = {
-  moderate,
-};

@@ -1,7 +1,7 @@
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
 
-function getAssistantResponse(threadId, userInput) {
+export function getAssistantResponse(threadId, userInput) {
     console.log(`Received request for threadId: ${threadId} and userInput: ${userInput}`);
 
     const threads = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/threads.json')));
@@ -34,6 +34,3 @@ function getAssistantResponse(threadId, userInput) {
     return assistantMessage.content;
 }
 
-module.exports = {
-    getAssistantResponse,
-};
