@@ -1572,5 +1572,19 @@
     "role": "ASSISTANT",
     "thread_id": "bc6eb266-0236-4300-86db-64397cdc006c",
     "created_at": "2024-08-23T13:59:54.227Z"
+  },
+  {
+    "public_id": "msg_6nek9f",
+    "content": "Simulated response to \"What is the capital of Poland?\"",
+    "role": "ASSISTANT",
+    "thread_id": "bc6eb266-0236-4300-86db-64397cdc006c",
+    "created_at": "2024-08-24T08:29:21.816Z"
+  },
+  {
+    "public_id": "msg_ueu1xk",
+    "content": "Simulated response to \"What is the capital of Poland?\"",
+    "role": "ASSISTANT",
+    "thread_id": "693ddaba-9cbf-4075-af27-b287b2376df7",
+    "created_at": "2024-08-24T08:31:01.322Z"
   }
 ]

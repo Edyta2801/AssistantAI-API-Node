@@ -1,5 +1,9 @@
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 export function getAssistantResponse(threadId, userInput) {
     console.log(`Received request for threadId: ${threadId} and userInput: ${userInput}`);
@@ -33,4 +37,3 @@ export function getAssistantResponse(threadId, userInput) {
     console.log('Assistant response generated:', assistantMessage.content);
     return assistantMessage.content;
 }
-
