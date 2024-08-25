@@ -1,18 +1,22 @@
 {
-  "name": "assistantai-api-node",
-  "version": "1.0.0",
-  "description": "",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.4",
-    "prettier": "^3.0.0-alpha.6"
-  }
+    "name": "assistantai-api-node",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "devDependencies": {
+        "@eslint/js": "^9.9.1",
+        "eslint": "^9.9.1",
+        "eslint-config-prettier": "^9.1.0",
+        "eslint-plugin-prettier": "^5.2.1",
+        "nodemon": "^3.1.4",
+        "prettier": "^3.3.3"
+    }
 }

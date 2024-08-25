@@ -1,11 +1,11 @@
-import {moderate} from'./moderationController.js ';
-import {getAssistantResponse} from './assistantController.js';
+import { moderate } from './moderationController.js ';
+import { getAssistantResponse } from './assistantController.js';
 
 // JSON parsing helper function
 function parseJsonBody(req) {
     return new Promise((resolve, reject) => {
         let body = '';
-        req.on('data', chunk => {
+        req.on('data', (chunk) => {
             body += chunk.toString();
         });
         req.on('end', () => {
@@ -28,11 +28,17 @@ export async function handleAsk(req, res) {
         console.log('Request Body:', body);
 
         const isSafe = moderate(body.question);
-        console.log(`Moderation result for question "${body.question}": ${isSafe}`);
+        console.log(
+            `Moderation result for question "${body.question}": ${isSafe}`
+        );
 
         if (!isSafe) {
             res.writeHead(400, { 'Content-Type': 'application/json' });
-            return res.end(JSON.stringify({ error: 'Your input was flagged by moderation.' }));
+            return res.end(
+                JSON.stringify({
+                    error: 'Your input was flagged by moderation.',
+                })
+            );
         }
 
         const threadId = body.threadId || 'default';

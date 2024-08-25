@@ -1,7 +1,7 @@
-import http from "http"; 
+import http from 'http';
 import url from 'url';
-import {handleAsk} from './controllers/askController.js';
-import {handleMain} from './controllers/mainController.js';
+import { handleAsk } from './controllers/askController.js';
+import { handleMain } from './controllers/mainController.js';
 
 const server = http.createServer((req, res) => {
     const parsedUrl = url.parse(req.url, true);
