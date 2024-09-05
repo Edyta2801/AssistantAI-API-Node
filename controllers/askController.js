@@ -1,23 +1,7 @@
-import { moderate } from './moderationController.js ';
-import { getAssistantResponse } from './assistantController.js';
+import { moderate } from '../services/moderationService.js';
+import { getAssistantResponse } from '../services/assistantService.js';
+import { parseJsonBody } from '../helpers/parseJSONBody.js';
 
-// JSON parsing helper function
-function parseJsonBody(req) {
-    return new Promise((resolve, reject) => {
-        let body = '';
-        req.on('data', (chunk) => {
-            body += chunk.toString();
-        });
-        req.on('end', () => {
-            try {
-                const json = JSON.parse(body);
-                resolve(json);
-            } catch (err) {
-                reject(err);
-            }
-        });
-    });
-}
 
 export async function handleAsk(req, res) {
     try {

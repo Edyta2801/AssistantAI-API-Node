@@ -3,7 +3,7 @@
 
 // service, helpers,
 export function moderate(input) {
-    // Sprawdzenie, czy input zawiera jakieś zakazane słowa
+    // Checking whether the input contains any prohibited words
     const forbiddenWords = ['badword', 'anotherbadword'];
 
     console.log(`Input: "${input}"`);

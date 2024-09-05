@@ -32,7 +32,7 @@ export function getAssistantResponse(threadId, userInput) {
         );
     }
 
-    // Tworzenie wiadomości asystenta
+    // Create assistence message
     const assistantMessage = {
         public_id: `msg_${Math.random().toString(36).substring(7)}`,
         content: `Simulated response to "${userInput}"`,

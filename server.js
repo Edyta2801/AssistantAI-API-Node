@@ -9,6 +9,10 @@ const server = http.createServer((req, res) => {
     console.log(`Request Method: ${req.method}`);
 
     if (req.method === 'POST' && parsedUrl.pathname === '/api/ask') {
+
+//AskController
+//
+
         return handleAsk(req, res);
     } else if (parsedUrl.pathname === '/') {
         return handleMain(req, res);
