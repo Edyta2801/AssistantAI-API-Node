@@ -3,6 +3,7 @@ import url from 'url';
 import { handleAsk } from './controllers/askController.js';
 import { handleMain } from './controllers/mainController.js';
 import { handleNewThread } from './controllers/newThreadController.js';
+import { handleFetchThreads } from './controllers/threadController.js';
 
 const server = http.createServer((req, res) => {
     const parsedUrl = url.parse(req.url, true);
@@ -13,6 +14,8 @@ const server = http.createServer((req, res) => {
         return handleAsk(req, res);
     } else if (req.method === 'POST' && parsedUrl.pathname === '/api/new-thread') {
         return handleNewThread(req, res);
+    } else if (req.method === 'GET' && parsedUrl.pathname === '/api/threads') {
+        return handleFetchThreads(req, res);
     } else if (parsedUrl.pathname === '/') {
         return handleMain(req, res);
     } else {
