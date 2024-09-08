@@ -1,272 +1,293 @@
 [
-    {
-        "_id": {
-            "$oid": "667147402feceecaea25a988"
-        },
-        "public_id": "bc6eb266-0236-433d-86db-64397cdc006c",
-        "openai_thread_id": "thread_ijDigPHbKwHhHWfbHM3D1Y3Z",
-        "created_at": {
-            "$date": "2024-06-18T08:37:20.606Z"
-        }
+  {
+    "_id": {
+      "$oid": "667147402feceecaea25a988"
     },
-    {
-        "_id": {
-            "$oid": "66715cd42feceecaea25a993"
-        },
-        "public_id": "42eea81e-058f-4d1c-99d1-6dac3c2f9b1d",
-        "openai_thread_id": "thread_VVKPZaykEK2eGYbYFyUlw7kM",
-        "created_at": {
-            "$date": "2024-06-18T10:09:24.577Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "667163c92feceecaea25a9a6"
-        },
-        "public_id": "1a9937a6-af31-4d5a-8f3b-17e8acc36af7",
-        "openai_thread_id": "thread_6iY3BoGgCIA9oV5pGWRPb2cV",
-        "created_at": {
-            "$date": "2024-06-18T10:39:05.584Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "667164d02feceecaea25a9b0"
-        },
-        "public_id": "66b794b8-4539-4202-a37c-be5a2aaaf939",
-        "openai_thread_id": "thread_vwBHkjFvQnBnnemFAT2LLGYW",
-        "created_at": {
-            "$date": "2024-06-18T10:43:28.435Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "667165ff2feceecaea25a9ba"
-        },
-        "public_id": "b6421513-95f3-4717-a9d9-97e11470f84c",
-        "openai_thread_id": "thread_nyY4vh8OLLPMU3Pe3ZXFnM8A",
-        "created_at": {
-            "$date": "2024-06-18T10:48:31.611Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "66716cbf2feceecaea25a9c4"
-        },
-        "public_id": "06ab0b69-340e-45cc-add8-d19096201747",
-        "openai_thread_id": "thread_FKVICi3pSb67giDRRznEwJAb",
-        "created_at": {
-            "$date": "2024-06-18T11:17:19.831Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "66716f912feceecaea25a9ce"
-        },
-        "public_id": "c09088bd-d42a-4736-80d0-a10b99826843",
-        "openai_thread_id": "thread_uBAP8QhITRG2ZHcfulDTJ23g",
-        "created_at": {
-            "$date": "2024-06-18T11:29:21.600Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "667172772feceecaea25a9d8"
-        },
-        "public_id": "4758fa17-afb6-4262-9494-8c8ebba6f4fa",
-        "openai_thread_id": "thread_Mp9XwXZ41yVzBv7ZJCq7AVaB",
-        "created_at": {
-            "$date": "2024-06-18T11:41:43.242Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "66717c632feceecaea25a9e2"
-        },
-        "public_id": "950faa3a-2263-48e5-a13e-732476744582",
-        "openai_thread_id": "thread_halWNDk3MTlY8TgS4m3tJtmj",
-        "created_at": {
-            "$date": "2024-06-18T12:24:03.244Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "66770dbfd99d62703f0fe83f"
-        },
-        "public_id": "3cc1bd89-da32-4523-ae7e-7abe4f76a9b4",
-        "openai_thread_id": "thread_VffUr5qKbcy0oxbuBtxAf5ge",
-        "created_at": {
-            "$date": "2024-06-22T17:45:35.333Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "667712dbd99d62703f0fe840"
-        },
-        "public_id": "0b0cbcb4-2fa8-40e1-9e1f-bf969ae6a980",
-        "openai_thread_id": "thread.id",
-        "created_at": {
-            "$date": "2024-06-22T18:07:23.958Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "66771304d99d62703f0fe841"
-        },
-        "public_id": "e70894b2-6bd8-4eca-8977-cd9c4b6fa305",
-        "openai_thread_id": "thread.id",
-        "created_at": {
-            "$date": "2024-06-22T18:08:04.823Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "66771312d99d62703f0fe842"
-        },
-        "public_id": "18546eb5-d5af-4f95-9f2c-53975bb3f523",
-        "openai_thread_id": "thread.id",
-        "created_at": {
-            "$date": "2024-06-22T18:08:18.642Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "66771494d99d62703f0fe843"
-        },
-        "public_id": "820f5aae-8ecb-4e11-a421-7bdae1a89ec4",
-        "openai_thread_id": "salesyy_thread_id",
-        "created_at": {
-            "$date": "2024-06-22T18:14:44.659Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "667d65d25ddfba0f02cbeaa9"
-        },
-        "public_id": "3ebdd602-84fd-430a-9a99-5b2d255b8561",
-        "openai_thread_id": "thread_rsxs8Kr5dUh2u77ieOQQU3WM",
-        "created_at": {
-            "$date": "2024-06-27T13:14:58.714Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "66828f9cce80363fbdf7e115"
-        },
-        "public_id": "a6e1d2fc-08a9-4775-8927-6729a733ba90",
-        "openai_thread_id": "thread_wba65X6i18ANqsMZSOfKXiRB",
-        "created_at": {
-            "$date": "2024-07-01T11:14:36.188Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "6683c7ca2c71bdfff63fc0ab"
-        },
-        "public_id": "2ec2ea33-ee53-4912-a803-70ee1aa41f33",
-        "openai_thread_id": "thread_C6RaGHAxWQ9f3Q8pDEZvycGg",
-        "created_at": {
-            "$date": "2024-07-02T09:26:34.518Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "6683c8a42c71bdfff63fc0ac"
-        },
-        "public_id": "4aac9d74-25eb-486e-9d06-4e1aa30d3164",
-        "openai_thread_id": "thread_gho3se5TJVNiVYnGgxnZRBH3",
-        "created_at": {
-            "$date": "2024-07-02T09:30:12.262Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "6683ca572c71bdfff63fc0ad"
-        },
-        "public_id": "afc4b12b-f08e-4953-8336-bf8b9179289d",
-        "openai_thread_id": "thread_8ORXMFbbMDHFal8GRsQpTxFw",
-        "created_at": {
-            "$date": "2024-07-02T09:37:27.784Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "6683cb4a238beb1a52e90257"
-        },
-        "public_id": "f5f17459-36c7-4c25-ba7e-e7bddc2440fb",
-        "openai_thread_id": "thread_e9ULOx3ewdDCpXxNmrR60gK0",
-        "created_at": {
-            "$date": "2024-07-02T09:41:30.115Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "6683cc93238beb1a52e90258"
-        },
-        "public_id": "243149f0-f9d7-47b1-9dce-9ed42ce76c88",
-        "openai_thread_id": "thread_iLsydr7RmylDkWyB5oY5UBat",
-        "created_at": {
-            "$date": "2024-07-02T09:46:59.076Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "6683cd395b1ffd2c1ae47f70"
-        },
-        "public_id": "811c81d4-c367-40b2-92ac-735200bf643f",
-        "openai_thread_id": "thread_ISAOE32XjcKFf9QVuk0jsp6c",
-        "created_at": {
-            "$date": "2024-07-02T09:49:45.586Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "6683cd975b1ffd2c1ae47f71"
-        },
-        "public_id": "bd785c8a-416e-440c-848f-42ab24448438",
-        "openai_thread_id": "thread_x7TjxhAFapTgI0AxThODGVFj",
-        "created_at": {
-            "$date": "2024-07-02T09:51:19.516Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "6683e8c50330e142410f7a2c"
-        },
-        "public_id": "a1bff20a-56a8-4458-9630-197679014c54",
-        "openai_thread_id": "thread_vj67jZbjiccOlkmcnqvezSj8",
-        "created_at": {
-            "$date": "2024-07-02T11:47:17.749Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "6683e9490330e142410f7a2d"
-        },
-        "public_id": "068bc5e3-28c8-465c-9294-fb3f689248cf",
-        "openai_thread_id": "thread_AE4IauuFAy7IYcH07q7w3lWm",
-        "created_at": {
-            "$date": "2024-07-02T11:49:29.724Z"
-        }
-    },
-    {
-        "_id": {
-            "$oid": "6683e97e0330e142410f7a2e"
-        },
-        "public_id": "778c32e4-6a0f-4b12-b7df-887d3823ca71",
-        "openai_thread_id": "thread_1l16KhaPLI8qLxbVCYZdjHdz",
-        "created_at": {
-            "$date": "2024-07-02T11:50:22.420Z"
-        }
-    },
-    {
-        "public_id": "bc6eb266-0236-4300-86db-64397cdc006c",
-        "openai_thread_id": "thread_21rgh",
-        "created_at": "2024-08-20T19:54:51.175Z"
-    },
-    {
-        "public_id": "693ddaba-9cbf-4075-af27-b287b2376df7",
-        "openai_thread_id": "thread_0we4ft",
-        "created_at": "2024-08-24T08:31:01.321Z"
+    "public_id": "bc6eb266-0236-433d-86db-64397cdc006c",
+    "openai_thread_id": "thread_ijDigPHbKwHhHWfbHM3D1Y3Z",
+    "created_at": {
+      "$date": "2024-06-18T08:37:20.606Z"
     }
+  },
+  {
+    "_id": {
+      "$oid": "66715cd42feceecaea25a993"
+    },
+    "public_id": "42eea81e-058f-4d1c-99d1-6dac3c2f9b1d",
+    "openai_thread_id": "thread_VVKPZaykEK2eGYbYFyUlw7kM",
+    "created_at": {
+      "$date": "2024-06-18T10:09:24.577Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667163c92feceecaea25a9a6"
+    },
+    "public_id": "1a9937a6-af31-4d5a-8f3b-17e8acc36af7",
+    "openai_thread_id": "thread_6iY3BoGgCIA9oV5pGWRPb2cV",
+    "created_at": {
+      "$date": "2024-06-18T10:39:05.584Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667164d02feceecaea25a9b0"
+    },
+    "public_id": "66b794b8-4539-4202-a37c-be5a2aaaf939",
+    "openai_thread_id": "thread_vwBHkjFvQnBnnemFAT2LLGYW",
+    "created_at": {
+      "$date": "2024-06-18T10:43:28.435Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667165ff2feceecaea25a9ba"
+    },
+    "public_id": "b6421513-95f3-4717-a9d9-97e11470f84c",
+    "openai_thread_id": "thread_nyY4vh8OLLPMU3Pe3ZXFnM8A",
+    "created_at": {
+      "$date": "2024-06-18T10:48:31.611Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66716cbf2feceecaea25a9c4"
+    },
+    "public_id": "06ab0b69-340e-45cc-add8-d19096201747",
+    "openai_thread_id": "thread_FKVICi3pSb67giDRRznEwJAb",
+    "created_at": {
+      "$date": "2024-06-18T11:17:19.831Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66716f912feceecaea25a9ce"
+    },
+    "public_id": "c09088bd-d42a-4736-80d0-a10b99826843",
+    "openai_thread_id": "thread_uBAP8QhITRG2ZHcfulDTJ23g",
+    "created_at": {
+      "$date": "2024-06-18T11:29:21.600Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667172772feceecaea25a9d8"
+    },
+    "public_id": "4758fa17-afb6-4262-9494-8c8ebba6f4fa",
+    "openai_thread_id": "thread_Mp9XwXZ41yVzBv7ZJCq7AVaB",
+    "created_at": {
+      "$date": "2024-06-18T11:41:43.242Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66717c632feceecaea25a9e2"
+    },
+    "public_id": "950faa3a-2263-48e5-a13e-732476744582",
+    "openai_thread_id": "thread_halWNDk3MTlY8TgS4m3tJtmj",
+    "created_at": {
+      "$date": "2024-06-18T12:24:03.244Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66770dbfd99d62703f0fe83f"
+    },
+    "public_id": "3cc1bd89-da32-4523-ae7e-7abe4f76a9b4",
+    "openai_thread_id": "thread_VffUr5qKbcy0oxbuBtxAf5ge",
+    "created_at": {
+      "$date": "2024-06-22T17:45:35.333Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667712dbd99d62703f0fe840"
+    },
+    "public_id": "0b0cbcb4-2fa8-40e1-9e1f-bf969ae6a980",
+    "openai_thread_id": "thread.id",
+    "created_at": {
+      "$date": "2024-06-22T18:07:23.958Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66771304d99d62703f0fe841"
+    },
+    "public_id": "e70894b2-6bd8-4eca-8977-cd9c4b6fa305",
+    "openai_thread_id": "thread.id",
+    "created_at": {
+      "$date": "2024-06-22T18:08:04.823Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66771312d99d62703f0fe842"
+    },
+    "public_id": "18546eb5-d5af-4f95-9f2c-53975bb3f523",
+    "openai_thread_id": "thread.id",
+    "created_at": {
+      "$date": "2024-06-22T18:08:18.642Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66771494d99d62703f0fe843"
+    },
+    "public_id": "820f5aae-8ecb-4e11-a421-7bdae1a89ec4",
+    "openai_thread_id": "salesyy_thread_id",
+    "created_at": {
+      "$date": "2024-06-22T18:14:44.659Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667d65d25ddfba0f02cbeaa9"
+    },
+    "public_id": "3ebdd602-84fd-430a-9a99-5b2d255b8561",
+    "openai_thread_id": "thread_rsxs8Kr5dUh2u77ieOQQU3WM",
+    "created_at": {
+      "$date": "2024-06-27T13:14:58.714Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66828f9cce80363fbdf7e115"
+    },
+    "public_id": "a6e1d2fc-08a9-4775-8927-6729a733ba90",
+    "openai_thread_id": "thread_wba65X6i18ANqsMZSOfKXiRB",
+    "created_at": {
+      "$date": "2024-07-01T11:14:36.188Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6683c7ca2c71bdfff63fc0ab"
+    },
+    "public_id": "2ec2ea33-ee53-4912-a803-70ee1aa41f33",
+    "openai_thread_id": "thread_C6RaGHAxWQ9f3Q8pDEZvycGg",
+    "created_at": {
+      "$date": "2024-07-02T09:26:34.518Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6683c8a42c71bdfff63fc0ac"
+    },
+    "public_id": "4aac9d74-25eb-486e-9d06-4e1aa30d3164",
+    "openai_thread_id": "thread_gho3se5TJVNiVYnGgxnZRBH3",
+    "created_at": {
+      "$date": "2024-07-02T09:30:12.262Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6683ca572c71bdfff63fc0ad"
+    },
+    "public_id": "afc4b12b-f08e-4953-8336-bf8b9179289d",
+    "openai_thread_id": "thread_8ORXMFbbMDHFal8GRsQpTxFw",
+    "created_at": {
+      "$date": "2024-07-02T09:37:27.784Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6683cb4a238beb1a52e90257"
+    },
+    "public_id": "f5f17459-36c7-4c25-ba7e-e7bddc2440fb",
+    "openai_thread_id": "thread_e9ULOx3ewdDCpXxNmrR60gK0",
+    "created_at": {
+      "$date": "2024-07-02T09:41:30.115Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6683cc93238beb1a52e90258"
+    },
+    "public_id": "243149f0-f9d7-47b1-9dce-9ed42ce76c88",
+    "openai_thread_id": "thread_iLsydr7RmylDkWyB5oY5UBat",
+    "created_at": {
+      "$date": "2024-07-02T09:46:59.076Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6683cd395b1ffd2c1ae47f70"
+    },
+    "public_id": "811c81d4-c367-40b2-92ac-735200bf643f",
+    "openai_thread_id": "thread_ISAOE32XjcKFf9QVuk0jsp6c",
+    "created_at": {
+      "$date": "2024-07-02T09:49:45.586Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6683cd975b1ffd2c1ae47f71"
+    },
+    "public_id": "bd785c8a-416e-440c-848f-42ab24448438",
+    "openai_thread_id": "thread_x7TjxhAFapTgI0AxThODGVFj",
+    "created_at": {
+      "$date": "2024-07-02T09:51:19.516Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6683e8c50330e142410f7a2c"
+    },
+    "public_id": "a1bff20a-56a8-4458-9630-197679014c54",
+    "openai_thread_id": "thread_vj67jZbjiccOlkmcnqvezSj8",
+    "created_at": {
+      "$date": "2024-07-02T11:47:17.749Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6683e9490330e142410f7a2d"
+    },
+    "public_id": "068bc5e3-28c8-465c-9294-fb3f689248cf",
+    "openai_thread_id": "thread_AE4IauuFAy7IYcH07q7w3lWm",
+    "created_at": {
+      "$date": "2024-07-02T11:49:29.724Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6683e97e0330e142410f7a2e"
+    },
+    "public_id": "778c32e4-6a0f-4b12-b7df-887d3823ca71",
+    "openai_thread_id": "thread_1l16KhaPLI8qLxbVCYZdjHdz",
+    "created_at": {
+      "$date": "2024-07-02T11:50:22.420Z"
+    }
+  },
+  {
+    "public_id": "bc6eb266-0236-4300-86db-64397cdc006c",
+    "openai_thread_id": "thread_21rgh",
+    "created_at": "2024-08-20T19:54:51.175Z"
+  },
+  {
+    "public_id": "693ddaba-9cbf-4075-af27-b287b2376df7",
+    "openai_thread_id": "thread_0we4ft",
+    "created_at": "2024-08-24T08:31:01.321Z"
+  },
+  {
+    "public_id": "693ddaba-9cbf-aaa6-af27-b287b2376df7",
+    "openai_thread_id": "thread_h52sf",
+    "created_at": "2024-09-05T13:49:29.015Z"
+  },
+  {
+    "_id": {
+      "$oid": "l5vz95hwosa"
+    },
+    "public_id": "aqresuhmeb-t705p6wo91",
+    "openai_thread_id": "thread_5wz414",
+    "created_at": "2024-09-08T14:46:03.710Z"
+  },
+  {
+    "_id": {
+      "$oid": "bd0ao5ptt8"
+    },
+    "public_id": "dufdo0nh9hs-3s3bymmlzd7",
+    "openai_thread_id": "thread_9222tq",
+    "created_at": "2024-09-08T14:46:28.341Z"
+  }
 ]

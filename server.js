@@ -2,6 +2,7 @@ import http from 'http';
 import url from 'url';
 import { handleAsk } from './controllers/askController.js';
 import { handleMain } from './controllers/mainController.js';
+import { handleNewThread } from './controllers/newThreadController.js';
 
 const server = http.createServer((req, res) => {
     const parsedUrl = url.parse(req.url, true);
@@ -9,11 +10,9 @@ const server = http.createServer((req, res) => {
     console.log(`Request Method: ${req.method}`);
 
     if (req.method === 'POST' && parsedUrl.pathname === '/api/ask') {
-
-//AskController
-//
-
         return handleAsk(req, res);
+    } else if (req.method === 'POST' && parsedUrl.pathname === '/api/new-thread') {
+        return handleNewThread(req, res);
     } else if (parsedUrl.pathname === '/') {
         return handleMain(req, res);
     } else {
