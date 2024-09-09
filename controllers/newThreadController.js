@@ -1,4 +1,5 @@
 import { createNewThread } from '../models/threadModel.js';
+import {logger} from '../logger.js'
 
 export function handleNewThread(req, res) {
     if (req.method !== 'POST') {
@@ -7,7 +8,7 @@ export function handleNewThread(req, res) {
     }
 
     const newThread = createNewThread();
-    console.log('New thread created:', newThread);
+    logger.info('New thread created:', newThread);
 
     res.writeHead(201, { 'Content-Type': 'application/json' });
     return res.end(JSON.stringify(newThread));

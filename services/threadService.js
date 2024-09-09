@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import {logger} from '../logger.js'
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -11,7 +12,7 @@ export function fetchThreads() {
         const threadsData = fs.readFileSync(threadsFilePath, 'utf-8');
         return JSON.parse(threadsData);
     } catch (error) {
-        console.error('Error reading threads file:', error);
+        logger.error('Error reading threads file:', error);
         return [];
     }
 }
@@ -20,6 +21,6 @@ export function saveThreads(threads) {
     try {
         fs.writeFileSync(threadsFilePath, JSON.stringify(threads, null, 2));
     } catch (error) {
-        console.error('Error saving threads:', error);
+        logger.error('Error saving threads:', error);
     }
 }

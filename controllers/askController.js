@@ -1,18 +1,19 @@
 import { moderate } from '../services/moderationService.js';
 import { getAssistantResponse } from '../services/assistantService.js';
 import { parseJsonBody } from '../helpers/parseJSONBody.js';
+import { logger } from '../logger.js';
 
 
 export async function handleAsk(req, res) {
     try {
         const body = await parseJsonBody(req);
         if (typeof body.question !== 'string') {
-            console.error('Invalid question format:', body.question);
+            logger.error('Invalid question format:', body.question);
         }
-        console.log('Request Body:', body);
+        logger.info('Request Body:', body);
 
         const isSafe = moderate(body.question);
-        console.log(
+        logger.info(
             `Moderation result for question "${body.question}": ${isSafe}`
         );
 
@@ -27,12 +28,12 @@ export async function handleAsk(req, res) {
 
         const threadId = body.threadId || 'default';
         const response = getAssistantResponse(threadId, body.question);
-        console.log('Assistant Response:', response);
+        logger.info('Assistant Response:', response);
 
         res.writeHead(200, { 'Content-Type': 'application/json' });
         return res.end(JSON.stringify({ answer: response }));
     } catch (err) {
-        console.error('Error parsing JSON:', err);
+        logger.error('Error parsing JSON:', err);
         res.writeHead(400, { 'Content-Type': 'application/json' });
         return res.end(JSON.stringify({ error: 'Invalid JSON format.' }));
     }

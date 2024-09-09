@@ -1,4 +1,5 @@
 import { fetchThreads } from '../services/threadService.js';
+import {logger} from '../logger.js'
 
 export function handleFetchThreads(req, res) {
     if (req.method !== 'GET') {
@@ -7,7 +8,7 @@ export function handleFetchThreads(req, res) {
     }
 
     const threads = fetchThreads();
-    console.log('Fetched threads:', threads);
+    logger.info('Fetched threads:', threads);
 
     res.writeHead(200, { 'Content-Type': 'application/json' });
     return res.end(JSON.stringify(threads));

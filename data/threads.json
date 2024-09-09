@@ -289,5 +289,26 @@
     "public_id": "dufdo0nh9hs-3s3bymmlzd7",
     "openai_thread_id": "thread_9222tq",
     "created_at": "2024-09-08T14:46:28.341Z"
+  },
+  {
+    "_id": {
+      "$oid": "c2780nky4l"
+    },
+    "public_id": "jt9w8w0z8u8-plux6zsqakl",
+    "openai_thread_id": "thread_zhzuo",
+    "created_at": "2024-09-09T07:37:44.609Z"
+  },
+  {
+    "_id": {
+      "$oid": "7aacd7gynu6"
+    },
+    "public_id": "3ynlcyeqs9k-oh64xloxgxf",
+    "openai_thread_id": "thread_4gxrh",
+    "created_at": "2024-09-09T07:38:03.738Z"
+  },
+  {
+    "public_id": "693ddaba-9cbf-aaa6-6666-b287b2376df7",
+    "openai_thread_id": "thread_2bajz7",
+    "created_at": "2024-09-09T07:39:16.602Z"
   }
 ]

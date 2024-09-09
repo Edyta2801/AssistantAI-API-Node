@@ -1,12 +1,13 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import {logger} from '../logger.js'
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 export function getAssistantResponse(threadId, userInput) {
-    console.log(
+   logger.info(
         `Received request for threadId: ${threadId} and userInput: ${userInput}`
     );
 
@@ -19,7 +20,7 @@ export function getAssistantResponse(threadId, userInput) {
 
     let thread = threads.find((t) => t.public_id === threadId);
     if (!thread) {
-        console.log('Thread not found, creating a new one.');
+        logger.warn('Thread not found, creating a new one.');
         thread = {
             public_id: threadId,
             openai_thread_id: `thread_${Math.random().toString(36).substring(7)}`,
@@ -46,6 +47,6 @@ export function getAssistantResponse(threadId, userInput) {
         JSON.stringify(messages, null, 2)
     );
 
-    console.log('Assistant response generated:', assistantMessage.content);
+    logger.info('Assistant response generated:', assistantMessage.content);
     return assistantMessage.content;
 }

@@ -1,22 +1,20 @@
-// const users = await prisma.db.users (generate types) Model
-// users.create({})
+import {logger} from '../logger.js'
 
-// service, helpers,
 export function moderate(input) {
     // Checking whether the input contains any prohibited words
     const forbiddenWords = ['badword', 'anotherbadword'];
 
-    console.log(`Input: "${input}"`);
-    console.log(`Forbidden Words: ${forbiddenWords.join(', ')}`);
+    logger.info(`Input: "${input}"`);
+    logger.warn(`Forbidden Words: ${forbiddenWords.join(', ')}`);
 
     const containsForbiddenWords = forbiddenWords.some((word) => {
         const isIncluded = input.includes(word);
-        console.log(`Checking word "${word}": ${isIncluded}`);
+        logger.warn(`Checking word "${word}": ${isIncluded}`);
         return isIncluded;
     });
 
     return !containsForbiddenWords;
 }
-console.log(moderate('This is a clean message.')); // powinno zwrócić true
-console.log(moderate('This message contains badword.')); // powinno zwrócić false
-console.log(moderate('Another message with anotherbadword.')); // powinno zwrócić false
+logger.info(moderate('This is a clean message.')); // should return true
+logger.info(moderate('This message contains badword.')); // should return false
+logger.info(moderate('Another message with anotherbadword.')); // should return false
